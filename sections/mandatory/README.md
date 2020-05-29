@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-1. [Algorithm & Data Structure](sections/algorithm-ds)
-2. [Programming Paradigm](sections/mandatory)
+1. [Algorithm & Data Structure](algorithm-ds)
+2. [Programming Paradigm](programming-paradigm)
 
 <br /><br />
