@@ -23,5 +23,3 @@
   <img src="assets/images/checkbox-small-blue.png" alt="my alt text"/>
   <figcaption>This is my caption text.</figcaption>
 </figure>
-
-🔗 [**Read More: structure by components**](/sections/projectstructre/breakintcomponents.md)
