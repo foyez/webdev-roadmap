@@ -4,10 +4,6 @@
 
 ## Table of contents
 
-<br /><br />
-
-## Table of contents
-
 1. [Interview Questions](#1-interview-questions)
 
 <br /><br />
