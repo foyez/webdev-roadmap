@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: #ccc;
+  padding: 10px;
+  height: 1000px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.item {
+  background-color: #f1425c;
+  padding: 30px;
+  margin: 5px;
+  font-size: 40px;
+  color: #fff;
+}
+
+.i9 {
+  /* flex: 1; */
+}
