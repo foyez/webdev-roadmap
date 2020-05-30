@@ -49,6 +49,6 @@ justify-content - define main axis
 align-content - define cross axis
 ```
 
-🔗 [**Read More: Flexbox**](/sections/flexbox)
+🔗 [**Read More: Flexbox**](sections/flexbox)
 
 # `2. Responsive Design & Media Queries`
