@@ -73,14 +73,42 @@
 - [HackerRank](https://www.hackerrank.com/) - `Learn problem solving and remote interview solution for hiring developers`
 - [edabit](https://edabit.com/) - `Learn to code, interactively`
 
-### Tutorials/Bootcamp:
-
-- [The Recurse Center](https://www.recurse.com/) - `self-directed, community-driven educational retreat for programmers in New York City`
-- [Scrimba](https://scrimba.com/) - `Learn to Code with Interactive Tutorials`
-- [egghead.io](https://egghead.io/) - `Concise screencast video tutorials`
-
 ### Interview Preparation:
 
 - [CodeSignal](https://codesignal.com/) - `Coding Tests and Assessments for Technical Hiring`
 - [Pramp](https://www.pramp.com) - `Practice Mock Interviews &amp; Coding Problems - Land Top Jobs`
 - [bytebybyte](https://www.byte-by-byte.com/) - `coding interviews`
+- [30 Seconds of Interviews](https://github.com/30-seconds/30-seconds-of-interviews)
+
+### Tutorials/Bootcamp:
+
+- [The Recurse Center](https://www.recurse.com/) - `self-directed, community-driven educational retreat for programmers in New York City`
+- [Scrimba](https://scrimba.com/) - `Learn to Code with Interactive Tutorials`
+- [egghead.io](https://egghead.io/) - `Concise screencast video tutorials`
+- [Awesome Uses](https://github.com/wesbos/awesome-uses) - `A list of /uses pages detailing developer setups, gear, software and configs`
+- []()
+
+##### Data Structures/Algorithm
+
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - `All Algorithms implemented in Python` -[]()
+
+##### NodeJS
+
+- [stream-handbook](https://github.com/substack/stream-handbook) - `how to write node programs with streams`
+
+##### Golang
+
+- [Build web application with goland](https://github.com/astaxie/build-web-application-with-golang) - `A golang ebook intro how to build a web with golang`
+- [Go Patterns](https://github.com/tmrts/go-patterns) - `Curated list of Go design patterns, recipes and idioms`
+
+##### Security
+
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - `Laws, Theories, Principles and Patterns that developers will find useful`
+
+### Resources:
+
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - `The Patterns of Scalable, Reliable, and Performant Large-Scale Systems`
+- [Professional Programming ](https://github.com/charlax/professional-programming) - `A collection of full-stack resources for programmers`
+- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - `Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more`
+- [Serverless Examples](https://github.com/serverless/examples) - `Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more`
+- [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - `Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design`
