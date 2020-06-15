@@ -12,6 +12,9 @@
 
 # `1. At a glance`
 
+<details>
+<summary>View contents</summary>
+
 ## ![✔] 1.1 What is functional programming?
 
 - `a programming paradigm`
@@ -140,3 +143,7 @@ var newRooms = rooms.map(function (rm) {
 - [Functional Programming in Javascript: How and Why](https://blog.bitsrc.io/functional-programming-in-javascript-how-and-why-94e7a97343b)
 - [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
 - [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
+
+</details>
+
+<br>[⬆ Back to top](#table-of-contents)

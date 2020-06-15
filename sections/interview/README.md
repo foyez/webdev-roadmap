@@ -13,6 +13,9 @@
 
 # `1. Interview Questions`
 
+<details>
+<summary>View contents</summary>
+
 ## ![✔] 1.1 Tell me a little bit about yourself
 
 - “What” you are professionally, combined with “who” you are as a person (attributes) = “why” I am a good candidate for this role.
@@ -44,7 +47,12 @@
 
 > `Kirsty Bonner`
 
+</details>
+
 # `2. What are hiring managers looking for?`
+
+<details>
+<summary>View contents</summary>
 
 - Solve problems
 - Communication skills
@@ -55,7 +63,12 @@
 
 🔗 [**Source: Getting Hired - Intro**](https://scrimba.com/p/paaVYTk/cWKgE8Ha)
 
+</details>
+
 # `3. What should I be doing to get a job?`
+
+<details>
+<summary>View contents</summary>
 
 - Show ability to solve problems
 - Network and make friends in industry
@@ -65,7 +78,12 @@
 
 🔗 [**Source: Getting Hired - Intro**](https://scrimba.com/p/paaVYTk/cWKgE8Ha)
 
+</details>
+
 # `4. Useful Links`
+
+<details>
+<summary>View contents</summary>
 
 ### Problem Solving:
 
@@ -92,6 +110,10 @@
 
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - `All Algorithms implemented in Python` -[]()
 
+#### Javascript
+
+- [5 tricky JavaScript problems to check before your next interview (Part 1)](https://medium.com/javascript-in-plain-english/5-tricky-javascript-problems-to-check-before-your-next-interview-part-1-60fdecaa59d6)
+
 ##### NodeJS
 
 - [stream-handbook](https://github.com/substack/stream-handbook) - `how to write node programs with streams`
@@ -112,3 +134,5 @@
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - `Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more`
 - [Serverless Examples](https://github.com/serverless/examples) - `Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more`
 - [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - `Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design`
+
+</details>
