@@ -91,6 +91,10 @@
 - [HackerRank](https://www.hackerrank.com/) - `Learn problem solving and remote interview solution for hiring developers`
 - [edabit](https://edabit.com/) - `Learn to code, interactively`
 
+### Learn to learn
+
+- [How To Effectively Learn As A Developer](https://programmingwithmosh.com/general/how-to-effectively-learn-as-a-developer)
+
 ### Interview Preparation:
 
 - [CodeSignal](https://codesignal.com/) - `Coding Tests and Assessments for Technical Hiring`
