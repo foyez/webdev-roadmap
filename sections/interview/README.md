@@ -94,6 +94,7 @@
 ### Learn to learn
 
 - [How To Effectively Learn As A Developer](https://programmingwithmosh.com/general/how-to-effectively-learn-as-a-developer)
+- [Lessons Learned from My Journey as a Self-Taught Developer](https://www.freecodecamp.org/news/lessons-learned-from-my-journey-as-a-self-taught-developer)
 
 ### Interview Preparation:
 
