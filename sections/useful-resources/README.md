@@ -39,7 +39,7 @@
 ### Clean Code
 
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
--[Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
+- [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 
 ### Tutorials/Bootcamp:
 
