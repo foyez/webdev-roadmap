@@ -30,6 +30,7 @@
 ### Git
 
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - `An interactive git visualization to challenge and educate!`
+- [Github Best Practices](https://www.datree.io/resources/github-best-practices)
 
 ### Command Line
 
