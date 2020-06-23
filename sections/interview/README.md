@@ -85,59 +85,29 @@
 <details>
 <summary>View contents</summary>
 
-### Problem Solving:
-
-- [Codewars](https://www.codewars.com/) - `Codewars: Achieve mastery through challenge`
-- [HackerRank](https://www.hackerrank.com/) - `Learn problem solving and remote interview solution for hiring developers`
-- [edabit](https://edabit.com/) - `Learn to code, interactively`
-
-### Learn to learn
-
-- [How To Effectively Learn As A Developer](https://programmingwithmosh.com/general/how-to-effectively-learn-as-a-developer)
-- [Lessons Learned from My Journey as a Self-Taught Developer](https://www.freecodecamp.org/news/lessons-learned-from-my-journey-as-a-self-taught-developer)
-
 ### Interview Preparation:
 
 - [CodeSignal](https://codesignal.com/) - `Coding Tests and Assessments for Technical Hiring`
 - [Pramp](https://www.pramp.com) - `Practice Mock Interviews &amp; Coding Problems - Land Top Jobs`
 - [bytebybyte](https://www.byte-by-byte.com/) - `coding interviews`
 - [30 Seconds of Interviews](https://github.com/30-seconds/30-seconds-of-interviews)
+- [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - `Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.`
+- [JavaScript interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
+- [Inverview Questions](https://github.com/mission-peace/interview)
+- [Code Problems](https://github.com/blakeembrey/code-problems) - `Common code and interview problems solved in multiple languages`
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - `120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.`
+- [FAQ GURU](https://github.com/FAQGURU/FAQGURU) - `A list of interview questions. This repository is everything you need to prepare for your technical interview.`
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - `Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore`
+- [CS Notes](https://github.com/CyC2018/CS-Notes) - `Basic knowledge required for technical interview, Leetcode, computer operating system, computer network, system design, Java, Python, C++`
+- [My behavior question answers](https://github.com/DreamOfTheRedChamber/behavior-questions-answers)
+- [interviews](https://github.com/kdn251/interviews) - `Everything you need to know to get the job.`
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - `List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!`
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
-### Tutorials/Bootcamp:
+### Resume
 
-- [The Recurse Center](https://www.recurse.com/) - `self-directed, community-driven educational retreat for programmers in New York City`
-- [Scrimba](https://scrimba.com/) - `Learn to Code with Interactive Tutorials`
-- [egghead.io](https://egghead.io/) - `Concise screencast video tutorials`
-- [Awesome Uses](https://github.com/wesbos/awesome-uses) - `A list of /uses pages detailing developer setups, gear, software and configs`
-- []()
-
-##### Data Structures/Algorithm
-
-- [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - `All Algorithms implemented in Python` -[]()
-
-#### Javascript
-
-- [5 tricky JavaScript problems to check before your next interview (Part 1)](https://medium.com/javascript-in-plain-english/5-tricky-javascript-problems-to-check-before-your-next-interview-part-1-60fdecaa59d6)
-
-##### NodeJS
-
-- [stream-handbook](https://github.com/substack/stream-handbook) - `how to write node programs with streams`
-
-##### Golang
-
-- [Build web application with goland](https://github.com/astaxie/build-web-application-with-golang) - `A golang ebook intro how to build a web with golang`
-- [Go Patterns](https://github.com/tmrts/go-patterns) - `Curated list of Go design patterns, recipes and idioms`
-
-##### Security
-
-- [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - `Laws, Theories, Principles and Patterns that developers will find useful`
-
-### Resources:
-
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - `The Patterns of Scalable, Reliable, and Performant Large-Scale Systems`
-- [Professional Programming ](https://github.com/charlax/professional-programming) - `A collection of full-stack resources for programmers`
-- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - `Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more`
-- [Serverless Examples](https://github.com/serverless/examples) - `Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more`
-- [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - `Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design`
-
+- [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) - `Build fast rocket and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.`
+- [Resume Checklist](https://github.com/aneagoie/resume-checklist)
 </details>

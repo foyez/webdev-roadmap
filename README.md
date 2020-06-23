@@ -12,6 +12,7 @@
 4. [Dev Ops](sections/dev-ops)
 5. [Interview](sections/interview)
 6. [Improve English](sections/improve-english)
+7. [Useful Resources](sections/useful-resources)
 
 <br /><br />
 
