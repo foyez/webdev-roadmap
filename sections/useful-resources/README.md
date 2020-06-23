@@ -38,7 +38,8 @@
 
 ### Clean Code
 
-- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) -[Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
+- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+-[Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 
 ### Tutorials/Bootcamp:
 
@@ -77,6 +78,7 @@
 #### Database
 
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - `A quick reminder of all SQL queries and examples on how to use them.`
+- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
 
 #### AWS
 
