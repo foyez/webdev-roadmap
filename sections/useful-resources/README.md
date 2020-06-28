@@ -14,6 +14,7 @@
 
 ### Problem Solving:
 
+- [Progক্রিয়া](http://www.progkriya.org/gyan/)
 - [Codewars](https://www.codewars.com/) - `Codewars: Achieve mastery through challenge`
 - [HackerRank](https://www.hackerrank.com/) - `Learn problem solving and remote interview solution for hiring developers`
 - [edabit](https://edabit.com/) - `Learn to code, interactively`
