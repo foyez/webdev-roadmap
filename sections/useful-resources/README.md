@@ -146,6 +146,9 @@
 #### CSS
 
 - [You Don't Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - `CSS is powerful, you can do a lot of things without JS`
+- [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
+- [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
+- [Getting Started with CSS Grid: Anatomy](https://www.viget.com/articles/getting-started-with-css-grid-part-1/)
 
 #### Full Stack
 
