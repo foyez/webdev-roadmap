@@ -139,6 +139,7 @@ var newRooms = rooms.map(function (rm) {
 ## ![✔] 1.10 Useful links
 
 - [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+- [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
 - [An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 - [Functional Programming in Javascript: How and Why](https://blog.bitsrc.io/functional-programming-in-javascript-how-and-why-94e7a97343b)
 - [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
