@@ -15,7 +15,7 @@
 
 ### Problem Solving:
 
-- [Progক্রিয়া](http://www.progkriya.org/gyan/)
+- [Progক্রিয়া](http://www.progkriya.org/gyan/)
 - [Codewars](https://www.codewars.com/) - `Codewars: Achieve mastery through challenge`
 - [HackerRank](https://www.hackerrank.com/) - `Learn problem solving and remote interview solution for hiring developers`
 - [edabit](https://edabit.com/) - `Learn to code, interactively`
@@ -34,7 +34,7 @@
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - `An interactive git visualization to challenge and educate!`
 - [Github Best Practices](https://www.datree.io/resources/github-best-practices)
 
-### Command Line
+### Command Line/Shell Script
 
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - `Master the command line, in one page`
 
@@ -56,6 +56,15 @@
 - [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - `All the things you didn't know you wanted to know about data structures`
 - [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - `180+ Algorithm & Data Structure Problems using C++`
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - `Algorithms and data structures implemented in JavaScript with explanations and links to further readings`
+
+#### Functional Programming
+
+- [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+- [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
+- [An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+- [Functional Programming in Javascript: How and Why](https://blog.bitsrc.io/functional-programming-in-javascript-how-and-why-94e7a97343b)
+- [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
+- [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
 
 #### Design Patterns
 
