@@ -116,6 +116,9 @@
 - [mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript) - `Module thinking, principles, design patterns and best practices.`
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - `Comprehensive and exhaustive JavaScript & Node.js testing best practices`
 
+#### Typescript
+- [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
+
 #### React
 
 - [Awesome React](https://github.com/enaqx/awesome-react) - `A collection of awesome things regarding React ecosystem`
