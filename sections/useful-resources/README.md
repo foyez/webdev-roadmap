@@ -59,8 +59,9 @@
 
 #### Functional Programming
 
-- [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+- [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
 - [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
+- [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 - [Functional Programming in Javascript: How and Why](https://blog.bitsrc.io/functional-programming-in-javascript-how-and-why-94e7a97343b)
 - [Functional JavaScript: Function Composition For Every Day Use](https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10)
