@@ -92,6 +92,10 @@
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - `A quick reminder of all SQL queries and examples on how to use them.`
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
 
+#### Testing & CI/CD
+
+- [Continuous Integration with CircleCI and NodeJS](https://medium.com/meshstudio/continuous-integration-with-circleci-and-nodejs-44c3cf0074a0)
+
 #### AWS
 
 - [Open Guide AWS](https://github.com/open-guides/og-aws) - `Amazon Web Services — a practical guide`
