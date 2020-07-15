@@ -86,6 +86,7 @@
 - [Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - `Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA`
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - `Laws, Theories, Principles and Patterns that developers will find useful`
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - `A collection of hacking / penetration testing resources to make you better!`
+- [Understanding CSRF](https://github.com/pillarjs/understanding-csrf)
 
 #### Database
 
