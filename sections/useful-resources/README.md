@@ -107,6 +107,7 @@
 
 #### Javascript
 
+- [javascript.info](https://javascript.info) - `The Modern JavaScript Tutorial`
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 - [js-unit-testing-guide](https://github.com/mawrkus/js-unit-testing-guide)
