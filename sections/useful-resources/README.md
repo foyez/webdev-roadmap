@@ -131,6 +131,7 @@
 - [React Bits](https://github.com/vasanthk/react-bits) - `React patterns, techniques, tips and tricks`
 - [React Hooks](https://github.com/streamich/react-use)
 - [React Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [Tips & Tricks for Gatsby](https://www.lekoarts.de/en/blog/tips-and-tricks-for-gatsby)
 
 #### NodeJS
 
