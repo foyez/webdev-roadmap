@@ -121,6 +121,7 @@
 - [JS Must Watch](https://github.com/bolshchikov/js-must-watch) - `Must-watch videos about javascript`
 - [mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript) - `Module thinking, principles, design patterns and best practices.`
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - `Comprehensive and exhaustive JavaScript & Node.js testing best practices`
+- [হাতেকলমে জাভাস্ক্রিপ্ট](https://zonayed.js.org)
 
 #### Typescript
 - [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
