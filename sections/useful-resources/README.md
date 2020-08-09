@@ -12,6 +12,7 @@
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - `A set of best practices for JavaScript projects`
 - [3rs-of-software-architecture](https://github.com/ryanmcdermott/3rs-of-software-architecture) - `A guide on how to write readable, reusable, and refactorable software`
 - [Engineering Practices](https://github.com/google/eng-practices) - `Google's Engineering Practices documentation`
+- [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM)
 
 ### Problem Solving:
 
