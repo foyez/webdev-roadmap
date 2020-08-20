@@ -157,6 +157,11 @@
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
 
 #### Rust
+- [rust learning resources](https://github.com/ctjhoa/rust-learning)
+- [rust playground](https://play.rust-lang.org/)
+- [The rust programming language book](https://doc.rust-lang.org/book/)
+- [rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+- [rustlings](https://github.com/rust-lang/rustlings) - `Small exercises to get you used to reading and writing Rust code!`
 
 #### Front End
 
