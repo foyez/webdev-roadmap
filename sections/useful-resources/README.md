@@ -77,6 +77,7 @@
 
 #### System Design
 
+- [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - `Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.`
 - [System Design](https://github.com/DreamOfTheRedChamber/system-design) - `Preparing for system design interview questions`
 
@@ -88,6 +89,10 @@
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - `Laws, Theories, Principles and Patterns that developers will find useful`
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - `A collection of hacking / penetration testing resources to make you better!`
 - [Understanding CSRF](https://github.com/pillarjs/understanding-csrf)
+
+#### Scaling
+
+- [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 
 #### Database
 
