@@ -131,6 +131,7 @@
 
 #### Typescript
 - [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
+- [Clean Code Typescript](https://github.com/labs42io/clean-code-typescript)
 
 #### React
 
