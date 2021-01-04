@@ -132,6 +132,8 @@
 #### Typescript
 - [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
 - [Clean Code Typescript](https://github.com/labs42io/clean-code-typescript)
+- [Type Challenges](https://github.com/type-challenges/type-challenges) - About
+Collection of TypeScript type challenges 
 
 #### React
 
