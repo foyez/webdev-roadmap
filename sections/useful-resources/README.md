@@ -143,6 +143,8 @@ Collection of TypeScript type challenges
 - [Testing React Applications](https://github.com/kentcdodds/testing-react-apps)
 - [React Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [Tips & Tricks for Gatsby](https://www.lekoarts.de/en/blog/tips-and-tricks-for-gatsby)
+- [reactpatterns](https://reactpatterns.com/) - `react best practices`
+- [react bits](https://vasanthk.gitbooks.io/react-bits/content/)
 
 #### NodeJS
 
