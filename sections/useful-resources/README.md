@@ -38,6 +38,7 @@
 ### Command Line/Shell Script
 
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - `Master the command line, in one page`
+- [Bash Script](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 
 ### Clean Code
 
@@ -96,6 +97,7 @@
 
 #### Database
 
+- [Postgres At a glance](https://github.com/foyez/postgres)
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - `A quick reminder of all SQL queries and examples on how to use them.`
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
 
