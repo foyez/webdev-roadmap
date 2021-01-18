@@ -1,6 +1,7 @@
 # Useful Resources
 
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - `A collection of (mostly) technical things every software developer should know`
+- [Eric Elliott](https://medium.com/@_ericelliott)
 - [bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - `A complete computer science study plan to become a software engineer.`
 - [Awesome](https://github.com/sindresorhus/awesome) - `Awesome lists about all kinds of interesting topics`
