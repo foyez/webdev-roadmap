@@ -148,6 +148,7 @@ Collection of TypeScript type challenges
 - [Tips & Tricks for Gatsby](https://www.lekoarts.de/en/blog/tips-and-tricks-for-gatsby)
 - [reactpatterns](https://reactpatterns.com/) - `react best practices`
 - [react bits](https://vasanthk.gitbooks.io/react-bits/content/)
+- [React & Redux in TypeScript - Complete Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 
 #### NodeJS
 
