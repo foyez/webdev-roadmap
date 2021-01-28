@@ -134,10 +134,13 @@
 - [হাতেকলমে জাভাস্ক্রিপ্ট](https://zonayed.js.org)
 
 #### Typescript
+
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
 - [Clean Code Typescript](https://github.com/labs42io/clean-code-typescript)
 - [Type Challenges](https://github.com/type-challenges/type-challenges) - About
-Collection of TypeScript type challenges 
+Collection of TypeScript type challenges
+- [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
 
 #### React
 
