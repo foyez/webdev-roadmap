@@ -174,6 +174,7 @@ Collection of TypeScript type challenges
 - [Go Patterns](https://github.com/tmrts/go-patterns) - `Curated list of Go design patterns, recipes and idioms`
 - [Learn Go with Tests](https://github.com/quii/learn-go-with-tests) - `Learn Go with test-driven development`
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
+- [Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
 
 #### Rust
 - [rust learning resources](https://github.com/ctjhoa/rust-learning)
