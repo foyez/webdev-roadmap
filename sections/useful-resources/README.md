@@ -35,11 +35,13 @@
 
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - `An interactive git visualization to challenge and educate!`
 - [Github Best Practices](https://www.datree.io/resources/github-best-practices)
+- [Getting started with Git](https://www.taniarascia.com/getting-started-with-git/)
 
 ### Command Line/Shell Script
 
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - `Master the command line, in one page`
 - [Bash Script](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+- [How to create and use bash scripts](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
 
 ### Clean Code
 
