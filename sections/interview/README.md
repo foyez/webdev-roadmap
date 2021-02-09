@@ -91,19 +91,42 @@
 - [mounting, render & rerender](https://reacttraining.com/blog/mount-vs-render/)
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - `List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!`
 
+#### Javascript
+
+- [JavaScript interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
+- [Closures - Learn with Sumit](https://www.youtube.com/watch?v=9acXwUkddZI)
+- [Prototype - Learn with Sumit](https://www.youtube.com/watch?v=Z45VQuHO_VA)
+- [The Two Pillars of JavaScript - Part 1](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+- [The Two Pillars of JavaScript - Part 2](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
+- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- [What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+- [What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+- [What is a Pure Function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+- [What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
+- [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+- [What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+- []()
+- []()
+
+#### Frontend
+
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - `Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore`
+
+#### Others
+
+- [Soft skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 - [CodeSignal](https://codesignal.com/) - `Coding Tests and Assessments for Technical Hiring`
 - [Pramp](https://www.pramp.com) - `Practice Mock Interviews &amp; Coding Problems - Land Top Jobs`
 - [bytebybyte](https://www.byte-by-byte.com/) - `coding interviews`
 - [30 Seconds of Interviews](https://github.com/30-seconds/30-seconds-of-interviews)
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - `Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.`
-- [JavaScript interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
 - [Inverview Questions](https://github.com/mission-peace/interview)
 - [Code Problems](https://github.com/blakeembrey/code-problems) - `Common code and interview problems solved in multiple languages`
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - `120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.`
 - [FAQ GURU](https://github.com/FAQGURU/FAQGURU) - `A list of interview questions. This repository is everything you need to prepare for your technical interview.`
-- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - `Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore`
+
 - [CS Notes](https://github.com/CyC2018/CS-Notes) - `Basic knowledge required for technical interview, Leetcode, computer operating system, computer network, system design, Java, Python, C++`
 - [My behavior question answers](https://github.com/DreamOfTheRedChamber/behavior-questions-answers)
 - [interviews](https://github.com/kdn251/interviews) - `Everything you need to know to get the job.`
