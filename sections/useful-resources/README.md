@@ -135,7 +135,7 @@
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - `Comprehensive and exhaustive JavaScript & Node.js testing best practices`
 - [হাতেকলমে জাভাস্ক্রিপ্ট](https://zonayed.js.org)
 - [The JavaScript Event Loop](https://flaviocopes.com/javascript-event-loop/)
-- [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ}
+- [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [How does javascript works?](https://www.youtube.com/watch?v=hGSHfObcVf4)
 
 #### Typescript
