@@ -1,5 +1,8 @@
 # Useful Resources
 
+<details>
+<summary>View contents</summary>
+
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - `A collection of (mostly) technical things every software developer should know`
 - [Eric Elliott](https://medium.com/@_ericelliott)
 - [bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources)
@@ -15,7 +18,12 @@
 - [Engineering Practices](https://github.com/google/eng-practices) - `Google's Engineering Practices documentation`
 - [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM)
 
+</details>
+
 ### Problem Solving:
+
+<details>
+<summary>View contents</summary>
 
 - [Progক্রিয়া](http://www.progkriya.org/gyan/)
 - [Codewars](https://www.codewars.com/) - `Codewars: Achieve mastery through challenge`
@@ -26,43 +34,78 @@
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - `Demonstrate all the questions on LeetCode in the form of animation.`
 - [leetcode solutions](https://github.com/azl397985856/leetcode) - `LeetCode Solutions: A Record of My Problem Solving Journey`
 
+</details>
+
 ### Learn to learn
 
+<details>
+<summary>View contents</summary>
+  
 - [How To Effectively Learn As A Developer](https://programmingwithmosh.com/general/how-to-effectively-learn-as-a-developer)
 - [Lessons Learned from My Journey as a Self-Taught Developer](https://www.freecodecamp.org/news/lessons-learned-from-my-journey-as-a-self-taught-developer)
 
+</details>
+
 ### Git
+
+<details>
+<summary>View contents</summary>
 
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - `An interactive git visualization to challenge and educate!`
 - [Github Best Practices](https://www.datree.io/resources/github-best-practices)
 - [Getting started with Git](https://www.taniarascia.com/getting-started-with-git/)
 
+</details>
+
 ### Command Line/Shell Script
+
+<details>
+<summary>View contents</summary>
 
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - `Master the command line, in one page`
 - [Bash Script](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - [How to create and use bash scripts](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
 
+</details>
+
 ### Clean Code
+
+<details>
+<summary>View contents</summary>
 
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 
+</details>
+
 ### Tutorials/Bootcamp:
+
+<details>
+<summary>View contents</summary>
 
 - [The Recurse Center](https://www.recurse.com/) - `self-directed, community-driven educational retreat for programmers in New York City`
 - [Scrimba](https://scrimba.com/) - `Learn to Code with Interactive Tutorials`
 - [egghead.io](https://egghead.io/) - `Concise screencast video tutorials`
 - [Awesome Uses](https://github.com/wesbos/awesome-uses) - `A list of /uses pages detailing developer setups, gear, software and configs`
 
+</details>
+
 #### Data Structures/Algorithm
+
+<details>
+<summary>View contents</summary>
 
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - `All Algorithms implemented in Python`
 - [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - `All the things you didn't know you wanted to know about data structures`
 - [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - `180+ Algorithm & Data Structure Problems using C++`
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - `Algorithms and data structures implemented in JavaScript with explanations and links to further readings`
 
+</details>
+
 #### Functional Programming
+
+<details>
+<summary>View contents</summary>
 
 - [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
 - [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
@@ -97,7 +140,12 @@
 * [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 * [Elements of JavaScript Style](https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f)
 
+</details>
+
 #### Design Patterns
+
+<details>
+<summary>View contents</summary>
 
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [Design pattern implementations in TypeScript](https://github.com/torokmark/design_patterns_in_typescript)
@@ -105,13 +153,23 @@
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - `An ultra-simplified explanation to design patterns`
 - [refactoring-guru-design-patterns](https://refactoring.guru/design-patterns)
 
+</details>
+
 #### System Design
+
+<details>
+<summary>View contents</summary>
 
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - `Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.`
 - [System Design](https://github.com/DreamOfTheRedChamber/system-design) - `Preparing for system design interview questions`
 
+</details>
+
 #### Security
+
+<details>
+<summary>View contents</summary>
 
 - [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - `An evolving how-to guide for securing a Linux server.`
 - [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - `A curated list of cryptography resources and links`
@@ -120,29 +178,59 @@
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - `A collection of hacking / penetration testing resources to make you better!`
 - [Understanding CSRF](https://github.com/pillarjs/understanding-csrf)
 
+</details>
+
 #### Scaling
+
+<details>
+<summary>View contents</summary>
 
 - [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 
+</details>
+
 #### Database
+
+<details>
+<summary>View contents</summary>
 
 - [Postgres At a glance](https://github.com/foyez/postgres)
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - `A quick reminder of all SQL queries and examples on how to use them.`
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
 
+</details>
+
 #### Testing & CI/CD
+
+<details>
+<summary>View contents</summary>
 
 - [Continuous Integration with CircleCI and NodeJS](https://medium.com/meshstudio/continuous-integration-with-circleci-and-nodejs-44c3cf0074a0)
 
+</details>
+
 #### AWS
+
+<details>
+<summary>View contents</summary>
 
 - [Open Guide AWS](https://github.com/open-guides/og-aws) - `Amazon Web Services — a practical guide`
 
+</details>
+
 #### NGINX
+
+<details>
+<summary>View contents</summary>
 
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - `How to improve NGINX performance, security, and other important things.`
 
+</details>
+
 #### Javascript
+
+<details>
+<summary>View contents</summary>
 
 - [javascript.info](https://javascript.info) - `The Modern JavaScript Tutorial`
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -163,7 +251,12 @@
 - [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [How does javascript works?](https://www.youtube.com/watch?v=hGSHfObcVf4)
 
+</details>
+
 #### Typescript
+
+<details>
+<summary>View contents</summary>
 
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
@@ -172,7 +265,12 @@
 Collection of TypeScript type challenges
 - [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
 
+</details>
+
 #### React
+
+<details>
+<summary>View contents</summary>
 
 - [Awesome React](https://github.com/enaqx/awesome-react) - `A collection of awesome things regarding React ecosystem`
 - [React Bits](https://github.com/vasanthk/react-bits) - `React patterns, techniques, tips and tricks`
@@ -184,7 +282,12 @@ Collection of TypeScript type challenges
 - [react bits](https://vasanthk.gitbooks.io/react-bits/content/)
 - [React & Redux in TypeScript - Complete Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 
+</details>
+
 #### NodeJS
+
+<details>
+<summary>View contents</summary>
 
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
 - [stream-handbook](https://github.com/substack/stream-handbook) - `how to write node programs with streams`
@@ -193,12 +296,22 @@ Collection of TypeScript type challenges
 - [Express Graphql](https://github.com/graphql/express-graphql)
 - [Learn You The Node.js](https://github.com/workshopper/learnyounode) - `Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.`
 
+</details>
+
 #### Python
+
+<details>
+<summary>View contents</summary>
 
 - [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 - [Python Guide](https://github.com/realpython/python-guide) - `Python best practices guidebook, written for humans.`
 
+</details>
+
 #### Golang
+
+<details>
+<summary>View contents</summary>
 
 - [Build web application with goland](https://github.com/astaxie/build-web-application-with-golang) - `A golang ebook intro how to build a web with golang`
 - [Go Patterns](https://github.com/tmrts/go-patterns) - `Curated list of Go design patterns, recipes and idioms`
@@ -206,37 +319,65 @@ Collection of TypeScript type challenges
 - [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
 - [Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
 
+</details>
+
 #### Rust
+
+<details>
+<summary>View contents</summary>
+  
 - [rust learning resources](https://github.com/ctjhoa/rust-learning)
 - [rust playground](https://play.rust-lang.org/)
 - [The rust programming language book](https://doc.rust-lang.org/book/)
 - [rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [rustlings](https://github.com/rust-lang/rustlings) - `Small exercises to get you used to reading and writing Rust code!`
 
+</details>
+
 #### Front End
+
+<details>
+<summary>View contents</summary>
 
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - `The only Front-End Performance Checklist that runs faster than the others`
 - [Front End Guide](https://github.com/grab/front-end-guide) - `Study guide and introduction to the modern front end stack`
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - `The perfect Front-End Checklist for modern websites and meticulous developers`
 - [Design Blocks](https://github.com/froala/design-blocks) - `A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites`
 
+</details>
+
 #### CSS
+
+<details>
+<summary>View contents</summary>
 
 - [You Don't Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - `CSS is powerful, you can do a lot of things without JS`
 - [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
 - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 - [Getting Started with CSS Grid: Anatomy](https://www.viget.com/articles/getting-started-with-css-grid-part-1/)
 
+</details>
+
 #### Full Stack
+
+<details>
+<summary>View contents</summary>
 
 - [Fullstack Open](https://fullstackopen.com/en/) - `Deep Dive Into Modern Web Development`
 - [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - `Free resources for learning Full Stack Web Development`
 
+</details>
+
 ### Extra Resources:
 
+<details>
+<summary>View contents</summary>
+  
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - `The Patterns of Scalable, Reliable, and Performant Large-Scale Systems`
 - [Professional Programming ](https://github.com/charlax/professional-programming) - `A collection of full-stack resources for programmers`
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - `Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more`
 - [Serverless Examples](https://github.com/serverless/examples) - `Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more`
 - [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - `Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design`
 - [Public APIs](https://github.com/public-apis/public-apis)
+
+</details>
