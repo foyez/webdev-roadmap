@@ -87,6 +87,10 @@
 
 ### Interview Preparation:
 
+#### React
+- [mounting, render & rerender](https://reacttraining.com/blog/mount-vs-render/)
+- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - `List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!`
+
 - [CodeSignal](https://codesignal.com/) - `Coding Tests and Assessments for Technical Hiring`
 - [Pramp](https://www.pramp.com) - `Practice Mock Interviews &amp; Coding Problems - Land Top Jobs`
 - [bytebybyte](https://www.byte-by-byte.com/) - `coding interviews`
@@ -103,7 +107,6 @@
 - [CS Notes](https://github.com/CyC2018/CS-Notes) - `Basic knowledge required for technical interview, Leetcode, computer operating system, computer network, system design, Java, Python, C++`
 - [My behavior question answers](https://github.com/DreamOfTheRedChamber/behavior-questions-answers)
 - [interviews](https://github.com/kdn251/interviews) - `Everything you need to know to get the job.`
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - `List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!`
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ### Resume
