@@ -20,7 +20,7 @@
 
 </details>
 
-### Problem Solving:
+# Problem Solving
 
 <details>
 <summary>View contents</summary>
@@ -36,7 +36,7 @@
 
 </details>
 
-### Learn to learn
+# Learn to learn
 
 <details>
 <summary>View contents</summary>
@@ -46,7 +46,7 @@
 
 </details>
 
-### Git
+# Git
 
 <details>
 <summary>View contents</summary>
@@ -57,7 +57,7 @@
 
 </details>
 
-### Command Line/Shell Script
+# Command Line/Shell Script
 
 <details>
 <summary>View contents</summary>
@@ -68,7 +68,7 @@
 
 </details>
 
-### Clean Code
+# Clean Code
 
 <details>
 <summary>View contents</summary>
@@ -78,7 +78,7 @@
 
 </details>
 
-### Tutorials/Bootcamp:
+# Tutorials/Bootcamp:
 
 <details>
 <summary>View contents</summary>
@@ -90,7 +90,7 @@
 
 </details>
 
-#### Data Structures/Algorithm
+# Data Structures/Algorithm
 
 <details>
 <summary>View contents</summary>
@@ -102,7 +102,7 @@
 
 </details>
 
-#### Functional Programming
+# Functional Programming
 
 <details>
 <summary>View contents</summary>
@@ -142,7 +142,7 @@
 
 </details>
 
-#### Design Patterns
+# Design Patterns
 
 <details>
 <summary>View contents</summary>
@@ -155,7 +155,7 @@
 
 </details>
 
-#### System Design
+# System Design
 
 <details>
 <summary>View contents</summary>
@@ -166,7 +166,7 @@
 
 </details>
 
-#### Security
+# Security
 
 <details>
 <summary>View contents</summary>
@@ -180,7 +180,7 @@
 
 </details>
 
-#### Scaling
+# Scaling
 
 <details>
 <summary>View contents</summary>
@@ -189,7 +189,7 @@
 
 </details>
 
-#### Database
+# Database
 
 <details>
 <summary>View contents</summary>
@@ -200,16 +200,17 @@
 
 </details>
 
-#### Testing & CI/CD
+# Testing & CI/CD
 
 <details>
 <summary>View contents</summary>
 
-- [Continuous Integration with CircleCI and NodeJS](https://medium.com/meshstudio/continuous-integration-with-circleci-and-nodejs-44c3cf0074a0)
+- [Continuous Integration with CircleCI and NodeJS](https://medium.com/me)shstudio/continuous-integration-with-circleci-and-nodejs-44c3cf0074a0)
+- [Fullstack CI/CD](https://fullstackopen.com/en/part11)
 
 </details>
 
-#### AWS
+# AWS
 
 <details>
 <summary>View contents</summary>
@@ -218,7 +219,7 @@
 
 </details>
 
-#### NGINX
+# NGINX
 
 <details>
 <summary>View contents</summary>
@@ -227,7 +228,7 @@
 
 </details>
 
-#### Javascript
+# Javascript
 
 <details>
 <summary>View contents</summary>
@@ -253,7 +254,7 @@
 
 </details>
 
-#### Typescript
+# Typescript
 
 <details>
 <summary>View contents</summary>
@@ -267,7 +268,7 @@ Collection of TypeScript type challenges
 
 </details>
 
-#### React
+# React
 
 <details>
 <summary>View contents</summary>
@@ -284,7 +285,7 @@ Collection of TypeScript type challenges
 
 </details>
 
-#### NodeJS
+# NodeJS
 
 <details>
 <summary>View contents</summary>
@@ -298,7 +299,7 @@ Collection of TypeScript type challenges
 
 </details>
 
-#### Python
+# Python
 
 <details>
 <summary>View contents</summary>
@@ -308,7 +309,7 @@ Collection of TypeScript type challenges
 
 </details>
 
-#### Golang
+# Golang
 
 <details>
 <summary>View contents</summary>
@@ -321,7 +322,7 @@ Collection of TypeScript type challenges
 
 </details>
 
-#### Rust
+# Rust
 
 <details>
 <summary>View contents</summary>
@@ -334,7 +335,7 @@ Collection of TypeScript type challenges
 
 </details>
 
-#### Front End
+# Front End
 
 <details>
 <summary>View contents</summary>
@@ -346,7 +347,7 @@ Collection of TypeScript type challenges
 
 </details>
 
-#### CSS
+# CSS
 
 <details>
 <summary>View contents</summary>
@@ -358,7 +359,7 @@ Collection of TypeScript type challenges
 
 </details>
 
-#### Full Stack
+# Full Stack
 
 <details>
 <summary>View contents</summary>
@@ -368,7 +369,7 @@ Collection of TypeScript type challenges
 
 </details>
 
-### Extra Resources:
+# Extra Resources:
 
 <details>
 <summary>View contents</summary>
