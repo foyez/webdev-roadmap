@@ -17,6 +17,7 @@
 - [3rs-of-software-architecture](https://github.com/ryanmcdermott/3rs-of-software-architecture) - `A guide on how to write readable, reusable, and refactorable software`
 - [Engineering Practices](https://github.com/google/eng-practices) - `Google's Engineering Practices documentation`
 - [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM)
+- [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
 
 </details>
 
@@ -228,6 +229,30 @@
 
 </details>
 
+# Front End
+
+<details>
+<summary>View contents</summary>
+
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - `The only Front-End Performance Checklist that runs faster than the others`
+- [Front End Guide](https://github.com/grab/front-end-guide) - `Study guide and introduction to the modern front end stack`
+- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - `The perfect Front-End Checklist for modern websites and meticulous developers`
+- [Design Blocks](https://github.com/froala/design-blocks) - `A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites`
+- [Front End Optimization](https://www.imperva.com/learn/performance/front-end-optimization-feo/)
+- [Fantastic Front-End Performance Tricks & Why We Do Them](https://buttercms.com/blog/front-end-performance-optimization-techniques)
+
+</details>
+
+# Full Stack
+
+<details>
+<summary>View contents</summary>
+
+- [Fullstack Open](https://fullstackopen.com/en/) - `Deep Dive Into Modern Web Development`
+- [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - `Free resources for learning Full Stack Web Development`
+
+</details>
+
 # Javascript
 
 <details>
@@ -251,6 +276,8 @@
 - [The JavaScript Event Loop](https://flaviocopes.com/javascript-event-loop/)
 - [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [How does javascript works?](https://www.youtube.com/watch?v=hGSHfObcVf4)
+- [JavaScript Promises: An introduction](https://web.dev/promises/)
+- [Concurrency model and the event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 
 </details>
 
@@ -335,18 +362,6 @@ Collection of TypeScript type challenges
 
 </details>
 
-# Front End
-
-<details>
-<summary>View contents</summary>
-
-- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - `The only Front-End Performance Checklist that runs faster than the others`
-- [Front End Guide](https://github.com/grab/front-end-guide) - `Study guide and introduction to the modern front end stack`
-- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - `The perfect Front-End Checklist for modern websites and meticulous developers`
-- [Design Blocks](https://github.com/froala/design-blocks) - `A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites`
-
-</details>
-
 # CSS
 
 <details>
@@ -356,16 +371,6 @@ Collection of TypeScript type challenges
 - [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
 - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 - [Getting Started with CSS Grid: Anatomy](https://www.viget.com/articles/getting-started-with-css-grid-part-1/)
-
-</details>
-
-# Full Stack
-
-<details>
-<summary>View contents</summary>
-
-- [Fullstack Open](https://fullstackopen.com/en/) - `Deep Dive Into Modern Web Development`
-- [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - `Free resources for learning Full Stack Web Development`
 
 </details>
 
