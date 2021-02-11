@@ -11,7 +11,7 @@
 3. [Back End](sections/back-end)
 4. [Dev Ops](sections/dev-ops)
 5. [Interview](sections/interview)
-6. [Improve English](sections/improve-english)
+6. [Recommended Books](sections/recommended-books)
 7. [Useful Resources](sections/useful-resources)
 
 <br /><br />
