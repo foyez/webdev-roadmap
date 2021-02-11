@@ -10,6 +10,7 @@
 
 1. [CSS Layout](#1-css-layout)
 2. [Responsive Design & Media Queries](#2-responsive-design-media-queries)
+3. [CSS code modules](#3-css-code-modules)
 
 <br /><br />
 
@@ -52,3 +53,7 @@ align-content - define cross axis
 🔗 [**Read More: Flexbox**](sections/flexbox)
 
 # `2. Responsive Design & Media Queries`
+
+# `3. CSS code modules`
+
+- [my code modules](https://gist.github.com/foyez/c979ab5c45a9fc6cbd9f8cf76439a699)
