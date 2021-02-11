@@ -178,17 +178,24 @@
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - `Laws, Theories, Principles and Patterns that developers will find useful`
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - `A collection of hacking / penetration testing resources to make you better!`
 - [Understanding CSRF](https://github.com/pillarjs/understanding-csrf)
+- [Learn about application security](https://www.imperva.com/learn/application-security/)
+- [Learn about data security](https://www.imperva.com/learn/data-security/)
 
 </details>
 
-# Scaling
+# Scaling / Performance
 
 <details>
 <summary>View contents</summary>
 
 - [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+- [Learn about Website Performance](https://www.imperva.com/learn/performance/)
 
 </details>
+
+# Website availability
+
+- [Learn about Website Availability](https://www.imperva.com/learn/availability/)
 
 # Database
 
