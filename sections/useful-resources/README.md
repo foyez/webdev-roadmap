@@ -195,7 +195,12 @@
 
 # Website availability
 
+<details>
+<summary>View contents</summary>
+
 - [Learn about Website Availability](https://www.imperva.com/learn/availability/)
+
+</details>
 
 # Database
 
