@@ -88,6 +88,7 @@
 ### Interview Preparation:
 
 #### React
+
 - [mounting, render & rerender](https://reacttraining.com/blog/mount-vs-render/)
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - `List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!`
 
@@ -110,6 +111,11 @@
 
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - `Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore`
+
+#### Backend
+
+- [What’s the Diff: Programs, Processes, and Threads](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)
+- [What’s the Difference between PUT vs PATCH?](https://rapidapi.com/blog/put-vs-patch/)
 
 #### Others
 
