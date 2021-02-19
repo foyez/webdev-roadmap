@@ -154,6 +154,7 @@
 - [essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns) - `Repo for my 'Learning JavaScript Design Patterns' book`
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - `An ultra-simplified explanation to design patterns`
 - [refactoring-guru-design-patterns](https://refactoring.guru/design-patterns)
+- [Go Patterns](https://github.com/tmrts/go-patterns)
 
 </details>
 
