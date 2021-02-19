@@ -87,6 +87,11 @@
 
 ### Interview Preparation:
 
+#### Data Structure & Algorithms 
+
+- [The Intuitive Guide to 
+Data Structures And Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
+
 #### React
 
 - [mounting, render & rerender](https://reacttraining.com/blog/mount-vs-render/)
