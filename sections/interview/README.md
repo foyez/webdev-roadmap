@@ -92,6 +92,12 @@
 - [The Intuitive Guide to 
 Data Structures And Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
 
+#### OOP (Object Oriented Programming)
+
+- [Object Oriented Programming Basics](https://github.com/foyez/oop)
+- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/tutorials/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [Writing SOLID JavaScript code with TypeScript](https://hub.packtpub.com/object-oriented-programming-typescript/)
+
 #### React
 
 - [mounting, render & rerender](https://reacttraining.com/blog/mount-vs-render/)
