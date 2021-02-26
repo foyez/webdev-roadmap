@@ -222,7 +222,7 @@
 <details>
 <summary>View contents</summary>
 
-- [Continuous Integration with CircleCI and NodeJS](https://medium.com/me)shstudio/continuous-integration-with-circleci-and-nodejs-44c3cf0074a0)
+- [Continuous Integration with CircleCI and NodeJS](https://medium.com/meshstudio/continuous-integration-with-circleci-and-nodejs-44c3cf0074a0)
 - [Fullstack CI/CD](https://fullstackopen.com/en/part11)
 
 </details>
