@@ -291,7 +291,7 @@
 - [js-unit-testing-guide](https://github.com/mawrkus/js-unit-testing-guide)
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - `A long list of (advanced) JavaScript questions, and their explanations`
 - [5 tricky JavaScript problems to check before your next interview (Part 1)](https://medium.com/javascript-in-plain-english/5-tricky-javascript-problems-to-check-before-your-next-interview-part-1-60fdecaa59d6)
-- [single line of code!](https://1loc.dev/)
+- [1LOC: Favorite JavaScript Utilities in single line of code](https://1loc.dev/)
 - [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [ES6 Cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [ES6 Features](https://github.com/lukehoban/es6features)
