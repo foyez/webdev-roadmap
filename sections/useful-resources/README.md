@@ -18,7 +18,6 @@
 - [Engineering Practices](https://github.com/google/eng-practices) - `Google's Engineering Practices documentation`
 - [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM)
 - [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
-- [Rico's cheatsheets](https://devhints.io/)
 
 </details>
 
@@ -45,6 +44,16 @@
   
 - [How To Effectively Learn As A Developer](https://programmingwithmosh.com/general/how-to-effectively-learn-as-a-developer)
 - [Lessons Learned from My Journey as a Self-Taught Developer](https://www.freecodecamp.org/news/lessons-learned-from-my-journey-as-a-self-taught-developer)
+
+</details>
+
+# Cheatsheets
+
+<details>
+<summary>View contents</summary>
+
+- [Rico's cheatsheets](https://devhints.io/)
+- [Bangla Developer Cheatsheet](https://devsonket.com/)
 
 </details>
 
