@@ -123,7 +123,7 @@
 <details>
 <summary>View contents</summary>
 
-- [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
+- :page_facing_up: [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
 - [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
@@ -240,7 +240,7 @@
 
 </details>
 
-#SEO (Search Engine Optimisation)
+# SEO (Search Engine Optimisation)
 
 <details>
 <summary>View contents</summary>
