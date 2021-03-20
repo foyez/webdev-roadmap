@@ -204,6 +204,7 @@
 
 - [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 - [Learn about Website Performance](https://www.imperva.com/learn/performance/)
+- [Awesome-wpo (Web Performance Optimisation)](https://github.com/davidsonfellipe/awesome-wpo)
 
 </details>
 
