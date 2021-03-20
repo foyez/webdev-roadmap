@@ -18,6 +18,7 @@
 - [Engineering Practices](https://github.com/google/eng-practices) - `Google's Engineering Practices documentation`
 - [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM)
 - [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
+- [Rico's cheatsheets](https://devhints.io/)
 
 </details>
 
