@@ -240,6 +240,15 @@
 
 </details>
 
+#SEO (Search Engine Optimisation)
+
+<details>
+<summary>View contents</summary>
+
+- :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/blog/what-every-programmer-should-know-about-seo)
+
+</details>
+
 # AWS
 
 <details>
@@ -326,7 +335,7 @@
 <summary>View contents</summary>
 
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-- [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
+- :book: [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
 - [Clean Code Typescript](https://github.com/labs42io/clean-code-typescript)
 - [Type Challenges](https://github.com/type-challenges/type-challenges) - About
 Collection of TypeScript type challenges
