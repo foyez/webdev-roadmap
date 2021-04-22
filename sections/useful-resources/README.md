@@ -66,6 +66,16 @@
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - `An interactive git visualization to challenge and educate!`
 - [Github Best Practices](https://www.datree.io/resources/github-best-practices)
 - [Getting started with Git](https://www.taniarascia.com/getting-started-with-git/)
+- [Git Cheatsheet](https://github.com/foyez/git]
+
+</details>
+
+# Regular Expression
+
+<details>
+<summary>View contents</summary>
+
+- [Regex cheatsheet](https://ihateregex.io)
 
 </details>
 
