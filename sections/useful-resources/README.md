@@ -351,6 +351,7 @@
 - [Type Challenges](https://github.com/type-challenges/type-challenges) - About
 Collection of TypeScript type challenges
 - [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
+- [The Definitive TypeScript Handbook](https://www.freecodecamp.org/news/the-definitive-typescript-handbook)
 
 </details>
 
@@ -368,6 +369,7 @@ Collection of TypeScript type challenges
 - [reactpatterns](https://reactpatterns.com/) - `react best practices`
 - [react bits](https://vasanthk.gitbooks.io/react-bits/content/)
 - [React & Redux in TypeScript - Complete Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+- [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely)
 
 </details>
 
