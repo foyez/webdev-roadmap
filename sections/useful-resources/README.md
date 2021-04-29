@@ -275,6 +275,7 @@
 <summary>View contents</summary>
 
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - `How to improve NGINX performance, security, and other important things.`
+- [The NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook)
 
 </details>
 
