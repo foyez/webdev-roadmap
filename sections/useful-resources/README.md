@@ -34,6 +34,7 @@
 - [My FreeCodeCamp Code](https://github.com/Rafase282/My-FreeCodeCamp-Code)
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - `Demonstrate all the questions on LeetCode in the form of animation.`
 - [leetcode solutions](https://github.com/azl397985856/leetcode) - `LeetCode Solutions: A Record of My Problem Solving Journey`
+- [InterviewBit](https://www.interviewbit.com/courses/programming/)
 
 </details>
 
@@ -126,6 +127,7 @@
 - [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - `All the things you didn't know you wanted to know about data structures`
 - [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - `180+ Algorithm & Data Structure Problems using C++`
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - `Algorithms and data structures implemented in JavaScript with explanations and links to further readings`
+- [InterviewBit](https://www.interviewbit.com/courses/programming/)
 
 </details>
 
