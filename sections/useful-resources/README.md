@@ -68,6 +68,7 @@
 - [Github Best Practices](https://www.datree.io/resources/github-best-practices)
 - [Getting started with Git](https://www.taniarascia.com/getting-started-with-git/)
 - [Git Cheatsheet](https://github.com/foyez/git)
+- [gitmoji](https://gitmoji.dev/) - `An emoji guide for your commit messages`
 
 </details>
 
