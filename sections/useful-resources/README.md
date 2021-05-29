@@ -1,8 +1,5 @@
 # Useful Resources
 
-<details>
-<summary>View contents</summary>
-
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - `A collection of (mostly) technical things every software developer should know`
 - [realworld](https://github.com/gothinkster/realworld) - `The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅`
 - [Eric Elliott](https://medium.com/@_ericelliott)
@@ -19,8 +16,6 @@
 - [Engineering Practices](https://github.com/google/eng-practices) - `Google's Engineering Practices documentation`
 - [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM)
 - [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
-
-</details>
 
 # Problem Solving
 
