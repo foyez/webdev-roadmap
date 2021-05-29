@@ -77,8 +77,9 @@
 <details>
 <summary>View contents</summary>
 
-- [Rexex at a glance](https://github.com/foyez/regex)
+- [Regex at a glance](https://github.com/foyez/regex)
 - [Regex cheatsheet](https://ihateregex.io)
+- [Learn regular expression in 20 minutes](https://youtu.be/rhzKDrUiJVk)
 
 </details>
 
