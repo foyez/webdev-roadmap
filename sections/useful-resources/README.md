@@ -434,6 +434,7 @@ Collection of TypeScript type challenges
 - [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
 - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 - [Getting Started with CSS Grid: Anatomy](https://www.viget.com/articles/getting-started-with-css-grid-part-1/)
+- [Learn CSS](https://web.dev/learn/css/)
 
 </details>
 
