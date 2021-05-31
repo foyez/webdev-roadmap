@@ -16,6 +16,12 @@
 - [Engineering Practices](https://github.com/google/eng-practices) - `Google's Engineering Practices documentation`
 - [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM)
 - [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - `The Patterns of Scalable, Reliable, and Performant Large-Scale Systems`
+- [Professional Programming ](https://github.com/charlax/professional-programming) - `A collection of full-stack resources for programmers`
+- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - `Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more`
+- [Serverless Examples](https://github.com/serverless/examples) - `Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more`
+- [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - `Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design`
+- [Public APIs](https://github.com/public-apis/public-apis)
 
 # Problem Solving
 
@@ -435,19 +441,5 @@ Collection of TypeScript type challenges
 - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 - [Getting Started with CSS Grid: Anatomy](https://www.viget.com/articles/getting-started-with-css-grid-part-1/)
 - [Learn CSS](https://web.dev/learn/css/)
-
-</details>
-
-# Extra Resources:
-
-<details>
-<summary>View contents</summary>
-  
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - `The Patterns of Scalable, Reliable, and Performant Large-Scale Systems`
-- [Professional Programming ](https://github.com/charlax/professional-programming) - `A collection of full-stack resources for programmers`
-- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - `Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more`
-- [Serverless Examples](https://github.com/serverless/examples) - `Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more`
-- [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - `Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design`
-- [Public APIs](https://github.com/public-apis/public-apis)
 
 </details>
