@@ -36,6 +36,7 @@
 - [My FreeCodeCamp Code](https://github.com/Rafase282/My-FreeCodeCamp-Code)
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - `Demonstrate all the questions on LeetCode in the form of animation.`
 - [leetcode solutions](https://github.com/azl397985856/leetcode) - `LeetCode Solutions: A Record of My Problem Solving Journey`
+- [Lintcode & Leetcode](https://aaronice.gitbook.io/lintcode)
 - [InterviewBit](https://www.interviewbit.com/courses/programming/)
 
 </details>
