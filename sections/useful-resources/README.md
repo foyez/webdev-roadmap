@@ -330,6 +330,7 @@
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 - [js-unit-testing-guide](https://github.com/mawrkus/js-unit-testing-guide)
+- [JavaScript Visualizer 9000](https://www.jsv9000.app)
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - `A long list of (advanced) JavaScript questions, and their explanations`
 - [5 tricky JavaScript problems to check before your next interview (Part 1)](https://medium.com/javascript-in-plain-english/5-tricky-javascript-problems-to-check-before-your-next-interview-part-1-60fdecaa59d6)
 - [1LOC: Favorite JavaScript Utilities in single line of code](https://1loc.dev/)
