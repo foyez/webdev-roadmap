@@ -117,7 +117,7 @@
 
 </details>
 
-# Data Structures / Algorithm
+# Data Structures / Algorithms
 
 <details>
 <summary>View contents</summary>
@@ -129,6 +129,15 @@
 - [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - `180+ Algorithm & Data Structure Problems using C++`
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - `Algorithms and data structures implemented in JavaScript with explanations and links to further readings`
 - [InterviewBit](https://www.interviewbit.com/courses/programming/)
+
+</details>
+
+# Object Oriented Programming
+
+<details>
+<summary>View contents</summary>
+
+- [OOP at a glance](https://github.com/foyez/oop)
 
 </details>
 
