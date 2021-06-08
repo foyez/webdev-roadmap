@@ -12,15 +12,10 @@
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - `A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.`
 - [computer-science](https://github.com/ossu/computer-science) - `Path to a free self-taught education in Computer Science!`
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - `A set of best practices for JavaScript projects`
-- [3rs-of-software-architecture](https://github.com/ryanmcdermott/3rs-of-software-architecture) - `A guide on how to write readable, reusable, and refactorable software`
 - [Engineering Practices](https://github.com/google/eng-practices) - `Google's Engineering Practices documentation`
 - [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM)
 - [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - `The Patterns of Scalable, Reliable, and Performant Large-Scale Systems`
 - [Professional Programming ](https://github.com/charlax/professional-programming) - `A collection of full-stack resources for programmers`
-- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - `Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more`
-- [Serverless Examples](https://github.com/serverless/examples) - `Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more`
-- [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - `Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design`
 - [Public APIs](https://github.com/public-apis/public-apis)
 
 # Problem Solving
@@ -110,7 +105,7 @@
 
 </details>
 
-# Tutorials/Bootcamp:
+# Tutorials / Bootcamp:
 
 <details>
 <summary>View contents</summary>
@@ -122,7 +117,7 @@
 
 </details>
 
-# Data Structures/Algorithm
+# Data Structures / Algorithm
 
 <details>
 <summary>View contents</summary>
@@ -191,7 +186,7 @@
 
 </details>
 
-# System Design
+# System Design / Software Architectures
 
 <details>
 <summary>View contents</summary>
@@ -199,6 +194,8 @@
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - `Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.`
 - [System Design](https://github.com/DreamOfTheRedChamber/system-design) - `Preparing for system design interview questions`
+- [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - `Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design`
+- [3rs-of-software-architecture](https://github.com/ryanmcdermott/3rs-of-software-architecture) - `A guide on how to write readable, reusable, and refactorable software`
 
 </details>
 
@@ -224,6 +221,7 @@
 <summary>View contents</summary>
 
 - [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - `The Patterns of Scalable, Reliable, and Performant Large-Scale Systems`
 - [Learn about Website Performance](https://www.imperva.com/learn/performance/)
 - [Awesome-wpo (Web Performance Optimisation)](https://github.com/davidsonfellipe/awesome-wpo)
 
@@ -268,12 +266,13 @@
 
 </details>
 
-# AWS
+# AWS / Serverless
 
 <details>
 <summary>View contents</summary>
 
 - [Open Guide AWS](https://github.com/open-guides/og-aws) - `Amazon Web Services — a practical guide`
+- [Serverless Examples](https://github.com/serverless/examples) - `Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more`
 
 </details>
 
@@ -321,16 +320,53 @@
 
 </details>
 
+# HTML
+
+<details>
+<summary>View contents</summary>
+
+- [Learn HTML](https://www.learn-html.org/)
+- [HTML Best Practices](https://hail2u.github.io/html-best-practices/)
+- [HTML Reference](https://htmlreference.io/)
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+
+</details>
+
+# CSS / SASS
+
+<details>
+<summary>View contents</summary>
+
+- [CSS Reference](https://cssreference.io/)
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+- [Learn CSS Layout](https://learnlayout.com/)
+- [Learn CSS step by step](https://www.csstutorial.net/)
+- [Learn about Colors](http://www.hexinvaders.com/)
+- [Sass Guideline](https://github.com/foyez/scss)
+- [You Don't Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - `CSS is powerful, you can do a lot of things without JS`
+- [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
+- [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
+- [Getting Started with CSS Grid: Anatomy](https://www.viget.com/articles/getting-started-with-css-grid-part-1/)
+- [Learn CSS](https://web.dev/learn/css/)
+- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - `Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more`
+
+</details>
+
+
 # Javascript
 
 <details>
 <summary>View contents</summary>
 
+- [JavaScript Visualizer 9000](https://www.jsv9000.app/)
 - [javascript.info](https://javascript.info) - `The Modern JavaScript Tutorial`
+- [JavaScript Tutorial](https://www.javascripttutorial.net/)
+- [Learn Javascript](https://learnjavascript.online/) - `The easiest way to  learn  &  practice  modern JavaScript`
+- [Learn Javascript](https://www.learn-js.org/en/)
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 - [js-unit-testing-guide](https://github.com/mawrkus/js-unit-testing-guide)
-- [JavaScript Visualizer 9000](https://www.jsv9000.app)
+- [JAVASCRIPT30](https://javascript30.com/) - `30 Day Vanilla JS Coding Challenge`
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions) - `A long list of (advanced) JavaScript questions, and their explanations`
 - [5 tricky JavaScript problems to check before your next interview (Part 1)](https://medium.com/javascript-in-plain-english/5-tricky-javascript-problems-to-check-before-your-next-interview-part-1-60fdecaa59d6)
 - [1LOC: Favorite JavaScript Utilities in single line of code](https://1loc.dev/)
@@ -357,7 +393,9 @@
 
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - :book: [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
+- [Typescript Tutorial](https://www.typescripttutorial.net/)
 - [Clean Code Typescript](https://github.com/labs42io/clean-code-typescript)
+- [Typescript at a glance](https://github.com/foyez/typescript)
 - [Type Challenges](https://github.com/type-challenges/type-challenges) - About
 Collection of TypeScript type challenges
 - [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
@@ -431,18 +469,5 @@ Collection of TypeScript type challenges
 - [The rust programming language book](https://doc.rust-lang.org/book/)
 - [rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [rustlings](https://github.com/rust-lang/rustlings) - `Small exercises to get you used to reading and writing Rust code!`
-
-</details>
-
-# CSS
-
-<details>
-<summary>View contents</summary>
-
-- [You Don't Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - `CSS is powerful, you can do a lot of things without JS`
-- [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
-- [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
-- [Getting Started with CSS Grid: Anatomy](https://www.viget.com/articles/getting-started-with-css-grid-part-1/)
-- [Learn CSS](https://web.dev/learn/css/)
 
 </details>
