@@ -277,11 +277,12 @@
 
 </details>
 
-# Testing & CI/CD
+# CI/CD
 
 <details>
 <summary>View contents</summary>
-
+  
+- [Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd)
 - [Continuous Integration with CircleCI and NodeJS](https://medium.com/meshstudio/continuous-integration-with-circleci-and-nodejs-44c3cf0074a0)
 - [Fullstack CI/CD](https://fullstackopen.com/en/part11)
 
