@@ -412,7 +412,7 @@ Collection of TypeScript type challenges
 
 </details>
 
-# React
+# React / NextJS / Gatsby
 
 <details>
 <summary>View contents</summary>
@@ -428,6 +428,7 @@ Collection of TypeScript type challenges
 - [React & Redux in TypeScript - Complete Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+- [Awesome NextJS](https://github.com/unicodeveloper/awesome-nextjs)
 
 </details>
 
