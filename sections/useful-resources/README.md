@@ -417,6 +417,8 @@ Collection of TypeScript type challenges
 <details>
 <summary>View contents</summary>
 
+## React
+
 - [Awesome React](https://github.com/enaqx/awesome-react) - `A collection of awesome things regarding React ecosystem`
 - [React Bits](https://github.com/vasanthk/react-bits) - `React patterns, techniques, tips and tricks`
 - [React Hooks](https://github.com/streamich/react-use)
@@ -428,7 +430,10 @@ Collection of TypeScript type challenges
 - [React & Redux in TypeScript - Complete Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+
+## NextJS
 - [Awesome NextJS](https://github.com/unicodeveloper/awesome-nextjs)
+- [Production ready Next.js boilerplate](https://github.com/pankod/next-boilerplate)
 
 </details>
 
