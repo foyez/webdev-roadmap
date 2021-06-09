@@ -138,6 +138,8 @@
 <summary>View contents</summary>
 
 - [OOP at a glance](https://github.com/foyez/oop)
+- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
 
 </details>
 
@@ -244,6 +246,15 @@
 - [Learn about Website Performance](https://www.imperva.com/learn/performance/)
 - [Awesome-wpo (Web Performance Optimisation)](https://github.com/davidsonfellipe/awesome-wpo)
 
+</details>
+
+# Agile Methodology
+
+<details>
+<summary>View contents</summary>
+  
+- [Awesome Agile](https://github.com/lorabv/awesome-agile) - `Awesome List of resources on Agile Software Development.`
+  
 </details>
 
 # Website availability
