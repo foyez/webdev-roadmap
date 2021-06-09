@@ -65,7 +65,7 @@
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - `An interactive git visualization to challenge and educate!`
 - [Github Best Practices](https://www.datree.io/resources/github-best-practices)
 - [Getting started with Git](https://www.taniarascia.com/getting-started-with-git/)
-- [Git Cheatsheet](https://github.com/foyez/git)
+- [Git at a glance](https://github.com/foyez/git)
 - [gitmoji](https://gitmoji.dev/) - `An emoji guide for your commit messages`
 
 </details>
@@ -200,9 +200,14 @@
 <details>
 <summary>View contents</summary>
 
+### System Design
+  
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - `Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.`
 - [System Design](https://github.com/DreamOfTheRedChamber/system-design) - `Preparing for system design interview questions`
+  
+### Software Architecture
+  
 - [Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - `Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design`
 - [3rs-of-software-architecture](https://github.com/ryanmcdermott/3rs-of-software-architecture) - `A guide on how to write readable, reusable, and refactorable software`
 
@@ -229,8 +234,13 @@
 <details>
 <summary>View contents</summary>
 
+### Scaling
+  
 - [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - `The Patterns of Scalable, Reliable, and Performant Large-Scale Systems`
+  
+### Performance
+  
 - [Learn about Website Performance](https://www.imperva.com/learn/performance/)
 - [Awesome-wpo (Web Performance Optimisation)](https://github.com/davidsonfellipe/awesome-wpo)
 
@@ -345,19 +355,24 @@
 
 <details>
 <summary>View contents</summary>
-
+  
+### CSS
+  
 - [CSS Reference](https://cssreference.io/)
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
 - [Learn CSS Layout](https://learnlayout.com/)
 - [Learn CSS step by step](https://www.csstutorial.net/)
 - [Learn about Colors](http://www.hexinvaders.com/)
-- [Sass Guideline](https://github.com/foyez/scss)
 - [You Don't Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - `CSS is powerful, you can do a lot of things without JS`
 - [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
 - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 - [Getting Started with CSS Grid: Anatomy](https://www.viget.com/articles/getting-started-with-css-grid-part-1/)
 - [Learn CSS](https://web.dev/learn/css/)
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - `Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more`
+  
+### SASS
+  
+- [Sass Guideline](https://github.com/foyez/scss)
 
 </details>
 
@@ -417,7 +432,7 @@ Collection of TypeScript type challenges
 <details>
 <summary>View contents</summary>
 
-## React
+### React
 
 - [Awesome React](https://github.com/enaqx/awesome-react) - `A collection of awesome things regarding React ecosystem`
 - [React Bits](https://github.com/vasanthk/react-bits) - `React patterns, techniques, tips and tricks`
@@ -431,7 +446,7 @@ Collection of TypeScript type challenges
 - [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 
-## NextJS
+### NextJS
 - [Awesome NextJS](https://github.com/unicodeveloper/awesome-nextjs)
 - [Production ready Next.js boilerplate](https://github.com/pankod/next-boilerplate)
 
