@@ -277,7 +277,7 @@
 
 </details>
 
-# CI/CD
+# CI/CD - `CircleCI, TravisCI, Jenkins, etc`
 
 <details>
 <summary>View contents</summary>
