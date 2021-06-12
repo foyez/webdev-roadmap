@@ -436,7 +436,8 @@
 Collection of TypeScript type challenges
 - [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
 - [The Definitive TypeScript Handbook](https://www.freecodecamp.org/news/the-definitive-typescript-handbook)
-
+- [Kent C. Dodds Tutorials](https://kentcdodds.com/blog/?q=typescript)
+  
 </details>
 
 # React / NextJS / Gatsby
@@ -455,7 +456,7 @@ Collection of TypeScript type challenges
 - [reactpatterns](https://reactpatterns.com/) - `react best practices`
 - [react bits](https://vasanthk.gitbooks.io/react-bits/content/)
 - [React & Redux in TypeScript - Complete Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
-- [Kent React Tutorials](https://kentcdodds.com/blog/?q=react)
+- [Kent C. Dodds Tutorials Tutorials](https://kentcdodds.com/blog/?q=react)
 - [React Tutorials](https://dmitripavlutin.com/tag/react/)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 
