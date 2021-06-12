@@ -455,7 +455,8 @@ Collection of TypeScript type challenges
 - [reactpatterns](https://reactpatterns.com/) - `react best practices`
 - [react bits](https://vasanthk.gitbooks.io/react-bits/content/)
 - [React & Redux in TypeScript - Complete Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
-- [Use React.memo() wisely](https://dmitripavlutin.com/use-react-memo-wisely)
+- [Kent React Tutorials](https://kentcdodds.com/blog/?q=react)
+- [React Tutorials](https://dmitripavlutin.com/tag/react/)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 
 ### NextJS
