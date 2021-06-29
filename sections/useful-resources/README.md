@@ -92,6 +92,7 @@
   
 - [The Linux Filesystem Explained](https://www.linux.com/training-tutorials/linux-filesystem-explained/)
 - [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
+- [The Linux Command Line by William Shotts](http://linuxcommand.org/tlcl.php)
   
 ### Shell script
   
