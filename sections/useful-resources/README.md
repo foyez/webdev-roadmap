@@ -88,8 +88,13 @@
 <details>
 <summary>View contents</summary>
 
+### Linux
+  
 - [The Linux Filesystem Explained](https://www.linux.com/training-tutorials/linux-filesystem-explained/)
 - [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
+  
+### Shell script
+  
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - `Master the command line, in one page`
 - [Bash Script](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - [How to create and use bash scripts](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
