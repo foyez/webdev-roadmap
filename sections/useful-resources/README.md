@@ -466,21 +466,37 @@ Collection of TypeScript type challenges
 
 - [Awesome React](https://github.com/enaqx/awesome-react) - `A collection of awesome things regarding React ecosystem`
 - [React Bits](https://github.com/vasanthk/react-bits) - `React patterns, techniques, tips and tricks`
-- [React Hooks](https://github.com/streamich/react-use)
 - [Testing React Apps - Kent C Cdodds](https://github.com/kentcdodds/testing-react-apps)
-- [React Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-- [Tips & Tricks for Gatsby](https://www.lekoarts.de/en/blog/tips-and-tricks-for-gatsby)
 - [reactpatterns](https://reactpatterns.com/) - `react best practices`
 - [react bits](https://vasanthk.gitbooks.io/react-bits/content/)
-- [React & Redux in TypeScript - Complete Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
 - [Kent C. Dodds Tutorials](https://kentcdodds.com/blog/?q=react)
 - [React Tutorials](https://dmitripavlutin.com/tag/react/)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [react-use](https://github.com/streamich/react-use) - `Custom react hook collections`
+  
+### React with Typscript
+  
+- [React with Typescript](https://stevekinney.github.io/react-and-typescript/)
+- [React Typescript Cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [React & Redux in TypeScript - Complete Guide](https://github.com/piotrwitek/react-redux-typescript-guide)
+  
 ### NextJS
+  
 - [Awesome NextJS](https://github.com/unicodeveloper/awesome-nextjs)
 - [Production ready Next.js boilerplate](https://github.com/pankod/next-boilerplate)
 
+### Gatsby
+  
+- [Tips & Tricks for Gatsby](https://www.lekoarts.de/en/blog/tips-and-tricks-for-gatsby)
+  
+### Useful Links
+  
+- [Redux Toolkit](https://redux-toolkit.js.org/) - `The official, opinionated, batteries-included toolset for efficient Redux development`
+- [Redux Toolkit Query](https://redux-toolkit.js.org/rtk-query/overview) - `RTK Query is a powerful data fetching and caching tool`
+- [Recoil](https://recoiljs.org/)- `A state management library for React`
+- [react-query](https://react-query.tanstack.com/) - `Performant and powerful data
+synchronization for React`
+  
 </details>
 
 # NodeJS
