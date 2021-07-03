@@ -489,6 +489,11 @@ Collection of TypeScript type challenges
   
 - [Tips & Tricks for Gatsby](https://www.lekoarts.de/en/blog/tips-and-tricks-for-gatsby)
   
+### React Native
+  
+- [React Native Fullstack Open](https://fullstackopen.com/en/part10)
+- [Magnus UI](https://magnus-ui.com/) - `A Utility-First React Native UI Framework`
+  
 ### Useful Links
   
 - [Redux Toolkit](https://redux-toolkit.js.org/) - `The official, opinionated, batteries-included toolset for efficient Redux development`
