@@ -359,8 +359,10 @@
 - [DevOps with Docker](https://devopswithdocker.com/)
 - [Docker Handbook](https://docker-handbook.farhan.dev/)
 - [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
-- [Dockerode](https://github.com/apocas/dockerode)
+- [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+- [Docker and Node.js Best Practices](https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md)
 - [Docker Commands, Help & Tips](https://gist.github.com/foyez/38567ccae815c2d524563bdaf604ec9e)
+- [Dockerode](https://github.com/apocas/dockerode)
   
 ### Kubernates
   
