@@ -472,6 +472,7 @@ Collection of TypeScript type challenges
 - [reactpatterns](https://reactpatterns.com/) - `react best practices`
 - [react bits](https://vasanthk.gitbooks.io/react-bits/content/)
 - [Kent C. Dodds Tutorials](https://kentcdodds.com/blog/?q=react)
+- [Epic React by Kent C. Dodds](https://epicreact.dev/articles)
 - [React Tutorials](https://dmitripavlutin.com/tag/react/)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [react-use](https://github.com/streamich/react-use) - `Custom react hook collections`
