@@ -497,11 +497,15 @@ Collection of TypeScript type challenges
 - [React Native Fullstack Open](https://fullstackopen.com/en/part10)
 - [Magnus UI](https://magnus-ui.com/) - `A Utility-First React Native UI Framework`
   
-### Useful Links
+### State Management / Redux
   
+- [Redux Fundamentals](https://stevekinney.github.io/redux-fundamentals/)
 - [Redux Toolkit](https://redux-toolkit.js.org/) - `The official, opinionated, batteries-included toolset for efficient Redux development`
 - [Redux Toolkit Query](https://redux-toolkit.js.org/rtk-query/overview) - `RTK Query is a powerful data fetching and caching tool`
 - [Recoil](https://recoiljs.org/)- `A state management library for React`
+  
+### Useful Links
+  
 - [react-query](https://react-query.tanstack.com/) - `Performant and powerful data
 synchronization for React`
   
