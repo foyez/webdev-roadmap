@@ -240,7 +240,7 @@
 
 </details>
 
-# Scaling / Performance
+# Scaling / Performance / Caching
 
 <details>
 <summary>View contents</summary>
@@ -254,6 +254,12 @@
   
 - [Learn about Website Performance](https://www.imperva.com/learn/performance/)
 - [Awesome-wpo (Web Performance Optimisation)](https://github.com/davidsonfellipe/awesome-wpo)
+  
+### Caching
+  
+- [Increasing Application Performance with HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers)
+- [Prevent unnecessary network requests with the HTTP Cache](https://web.dev/http-cache/)
+- [The Hidden Components of Web Caching](https://www.freecodecamp.org/news/the-hidden-components-of-web-caching-970854fe2c49/)
 
 </details>
 
