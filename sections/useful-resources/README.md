@@ -530,6 +530,7 @@ synchronization for React`
 - [You Don't Know Node](https://github.com/azat-co/you-dont-know-node)
 - [Express Graphql](https://github.com/graphql/express-graphql)
 - [Learn You The Node.js](https://github.com/workshopper/learnyounode) - `Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.`
+- [Testing Node Apps](https://github.com/kentcdodds/testing-node-apps)
 
 </details>
 
