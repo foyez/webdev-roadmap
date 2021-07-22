@@ -286,6 +286,7 @@
 <details>
 <summary>View contents</summary>
 
+- [Complete Intro to Database](https://btholt.github.io/complete-intro-to-databases/)
 - [Postgres At a glance](https://github.com/foyez/postgres)
 - [quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - `A quick reminder of all SQL queries and examples on how to use them.`
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
