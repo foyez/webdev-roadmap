@@ -3,6 +3,7 @@
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - `A collection of (mostly) technical things every software developer should know`
 - [The book of secrete knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) -`A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more`
 - [realworld](https://github.com/gothinkster/realworld) - `The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅`
+- [Complete Intro to Computer Science](https://btholt.github.io/complete-intro-to-computer-science/)
 - [Developers Roadmap](https://roadmap.sh/) - `Step by step guides and paths to learn different tools or technologies`
 - [Eric Elliott](https://medium.com/@_ericelliott)
 - [bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources)
