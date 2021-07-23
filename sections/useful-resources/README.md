@@ -484,6 +484,7 @@ Collection of TypeScript type challenges
 - [Kent C. Dodds Tutorials](https://kentcdodds.com/blog/?q=react)
 - [Epic React by Kent C. Dodds](https://epicreact.dev/articles)
 - [React Tutorials](https://dmitripavlutin.com/tag/react/)
+- [Complete Intro to React](https://btholt.github.io/complete-intro-to-react-v6/)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [react-use](https://github.com/streamich/react-use) - `Custom react hook collections`
   
