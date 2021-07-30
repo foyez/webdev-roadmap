@@ -497,6 +497,7 @@ Collection of TypeScript type challenges
   
 ### NextJS
   
+- [Production-Grade Next.js](https://production-grade-nextjs.vercel.app/)
 - [Awesome NextJS](https://github.com/unicodeveloper/awesome-nextjs)
 - [Production ready Next.js boilerplate](https://github.com/pankod/next-boilerplate)
 
