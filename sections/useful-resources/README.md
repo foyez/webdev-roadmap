@@ -529,6 +529,7 @@ synchronization for React`
 <details>
 <summary>View contents</summary>
 
+- [Introduction to NodeJS](https://intro-to-nodejs-v2-site.vercel.app/)
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
 - [stream-handbook](https://github.com/substack/stream-handbook) - `how to write node programs with streams`
 - [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs) - `Delightful Node.js packages and resources`
