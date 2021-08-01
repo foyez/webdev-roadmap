@@ -557,7 +557,7 @@ synchronization for React`
 - [Build web application with goland](https://github.com/astaxie/build-web-application-with-golang) - `A golang ebook intro how to build a web with golang`
 - [Go Patterns](https://github.com/tmrts/go-patterns) - `Curated list of Go design patterns, recipes and idioms`
 - [Learn Go with Tests](https://github.com/quii/learn-go-with-tests) - `Learn Go with test-driven development`
-- [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
+- [Go for Javascript Developers](https://www.pazams.com/Go-for-Javascript-Developers/)
 - [Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
 
 </details>
