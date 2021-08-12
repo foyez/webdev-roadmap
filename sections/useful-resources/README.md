@@ -573,6 +573,7 @@ synchronization for React`
 <details>
 <summary>View contents</summary>
   
+- [Introduction to Rust](https://rtfeldman-rust-workshop.netlify.app/)
 - [rust learning resources](https://github.com/ctjhoa/rust-learning)
 - [rust playground](https://play.rust-lang.org/)
 - [The rust programming language book](https://doc.rust-lang.org/book/)
