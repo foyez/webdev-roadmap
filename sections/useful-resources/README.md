@@ -575,9 +575,10 @@ synchronization for React`
   
 - [Introduction to Rust](https://rtfeldman-rust-workshop.netlify.app/)
 - [rust learning resources](https://github.com/ctjhoa/rust-learning)
-- [rust playground](https://play.rust-lang.org/)
 - [The rust programming language book](https://doc.rust-lang.org/book/)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
 - [rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [rustlings](https://github.com/rust-lang/rustlings) - `Small exercises to get you used to reading and writing Rust code!`
+- [rust playground](https://play.rust-lang.org/)
 
 </details>
