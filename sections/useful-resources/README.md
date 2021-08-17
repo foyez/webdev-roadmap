@@ -508,6 +508,7 @@ Collection of TypeScript type challenges
 ### React Native
   
 - [React Native Fullstack Open](https://fullstackopen.com/en/part10)
+- [React Native - Building mobile applications](https://kadikraman.github.io/react-native-v2/)
 - [Magnus UI](https://magnus-ui.com/) - `A Utility-First React Native UI Framework`
   
 ### State Management / Redux
