@@ -30,6 +30,8 @@
   
 - [Coding Interview Questions and Answers](https://www.youtube.com/watch?v=qli-JCrSwuk&list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev)
 - [Dynamic Programming Tutorial Series](https://www.youtube.com/watch?v=vYquumk4nWw&list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)
+- [Hackerrank - Data Structures](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
+- [Hackerrank - Algorithms](https://www.youtube.com/watch?v=KEEKn7Me-ms&list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
 - [CS Dojo - Data Structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [5 Problem Solving Tips for Cracking Coding Interview Questions](https://www.youtube.com/watch?v=GBuHSRDGZBY)
 - [Progক্রিয়া](http://www.progkriya.org/gyan/)
