@@ -26,16 +26,29 @@
 <details>
 <summary>View contents</summary>
 
+#### Learn problem solving 
+  
 - [Progক্রিয়া](http://www.progkriya.org/gyan/)
+- [edabit](https://edabit.com/) - `Learn to code, interactively`
+- [InterviewBit](https://www.interviewbit.com/courses/programming/)
+  
+#### Problem solving tips
+  
+- [5 Problem Solving Tips for Cracking Coding Interview Questions](https://www.youtube.com/watch?v=GBuHSRDGZBY)
+  
+#### Problem solving websites
+  
 - [Codewars](https://www.codewars.com/) - `Codewars: Achieve mastery through challenge`
 - [HackerRank](https://www.hackerrank.com/) - `Learn problem solving and remote interview solution for hiring developers`
-- [edabit](https://edabit.com/) - `Learn to code, interactively`
+- [Leetcode](https://leetcode.com/)
+  
+#### Problem solutions
+  
 - [LeetCode Solutions](https://github.com/lessfish/leetcode) - `LeetCode solutions with JavaScript`
 - [My FreeCodeCamp Code](https://github.com/Rafase282/My-FreeCodeCamp-Code)
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - `Demonstrate all the questions on LeetCode in the form of animation.`
 - [leetcode solutions](https://github.com/azl397985856/leetcode) - `LeetCode Solutions: A Record of My Problem Solving Journey`
 - [Lintcode & Leetcode](https://aaronice.gitbook.io/lintcode)
-- [InterviewBit](https://www.interviewbit.com/courses/programming/)
 
 </details>
 
