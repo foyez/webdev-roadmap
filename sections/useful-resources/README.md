@@ -348,7 +348,8 @@
 
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - `How to improve NGINX performance, security, and other important things.`
 - [The NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook)
-
+- [How to run a Node.js server with Nginx](https://blog.logrocket.com/how-to-run-a-node-js-server-with-nginx/)
+  
 </details>
 
 # Front End
