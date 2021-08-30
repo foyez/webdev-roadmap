@@ -495,9 +495,11 @@ Collection of TypeScript type challenges
 ### React
 
 - [Complete Intro to React and intermediate react](https://btholt.github.io/complete-intro-to-react-v6/)
-- [Kent C. Dodds Tutorials](https://kentcdodds.com/blog/?q=react)
+- [Kent C. Dodds' blog](https://kentcdodds.com/blog/?q=react)
 - [Epic React by Kent C. Dodds](https://epicreact.dev/articles)
-- [React Tutorials](https://dmitripavlutin.com/tag/react/)
+- [dmitripavlutin's blog](https://dmitripavlutin.com/tag/react/)
+- [goshakkk's blog](https://goshakkk.name/on-react/)
+- [goshakkk's forms in react](https://goshakkk.name/on-forms-react/)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [Testing React Apps - Kent C Cdodds](https://github.com/kentcdodds/testing-react-apps)
 - [reactpatterns](https://reactpatterns.com/) - `react best practices`
@@ -526,6 +528,7 @@ Collection of TypeScript type challenges
   
 - [React Native Fullstack Open](https://fullstackopen.com/en/part10)
 - [React Native - Building mobile applications](https://kadikraman.github.io/react-native-v2/)
+- [goshakkk's blog](https://goshakkk.name/on-react-native/)
 - [Magnus UI](https://magnus-ui.com/) - `A Utility-First React Native UI Framework`
   
 ### State Management / Redux
