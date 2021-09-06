@@ -539,6 +539,8 @@ Collection of TypeScript type challenges
 - [Redux Fundamentals](https://stevekinney.github.io/redux-fundamentals/)
 - [Redux Toolkit](https://redux-toolkit.js.org/) - `The official, opinionated, batteries-included toolset for efficient Redux development`
 - [Redux Toolkit Query](https://redux-toolkit.js.org/rtk-query/overview) - `RTK Query is a powerful data fetching and caching tool`
+- [Centralized Error Handing with React and Redux](https://www.pluralsight.com/guides/centralized-error-handing-with-react-and-redux)
+- [Sharing Redux Actions and Reducers](https://www.pluralsight.com/guides/sharing-redux-actions-and-reducers)
 - [Recoil](https://recoiljs.org/)- `A state management library for React`
   
 ### Useful Links
