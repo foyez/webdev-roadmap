@@ -86,6 +86,10 @@
 <summary>View contents</summary>
 
 ### Interview Preparation:
+  
+#### CS (Computer Science)
+  
+- [CS-Interview-Knowledge-Map](https://github.com/TeresaTyne/CS-Interview-Knowledge-Map)
 
 #### Data Structure & Algorithms 
 
