@@ -427,6 +427,7 @@
 ### CSS
   
 - [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/)
+- [CSS3 in 30 Days](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU)
 - [CSS Reference](https://cssreference.io/)
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
 - [Learn CSS Layout](https://learnlayout.com/)
