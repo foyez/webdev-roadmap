@@ -158,6 +158,7 @@
 - [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - `180+ Algorithm & Data Structure Problems using C++`
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - `Algorithms and data structures implemented in JavaScript with explanations and links to further readings`
 - [InterviewBit](https://www.interviewbit.com/courses/programming/)
+- [Algo-DS-Interview-Prep](https://labuladong.gitbook.io/algo-en/)
 
 </details>
 
