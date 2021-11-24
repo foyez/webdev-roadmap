@@ -518,6 +518,7 @@ Collection of TypeScript type challenges
 
 ### React
 
+- [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 - [Complete Intro to React and intermediate react](https://btholt.github.io/complete-intro-to-react-v6/)
 - [Kent C. Dodds' blog](https://kentcdodds.com/blog/?q=react)
 - [Epic React by Kent C. Dodds](https://epicreact.dev/articles)
