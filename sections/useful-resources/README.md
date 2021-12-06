@@ -29,7 +29,7 @@
 
 #### Learn problem solving 
   
-- [Algo-DS-Provlem solving-interview](https://labuladong.gitbook.io/algo-en/)
+- [Algo DS Provlem solving-interview](https://labuladong.gitbook.io/algo-en/)
 - [Coding Interview Questions and Answers](https://www.youtube.com/watch?v=qli-JCrSwuk&list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev)
 - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 - [Dynamic Programming Tutorial Series](https://www.youtube.com/watch?v=vYquumk4nWw&list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)
