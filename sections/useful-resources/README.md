@@ -31,8 +31,6 @@
   
 - [Algo DS Provlem solving-interview](https://labuladong.gitbook.io/algo-en/)
 - [Coding Interview Questions and Answers](https://www.youtube.com/watch?v=qli-JCrSwuk&list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev)
-- [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
-- [Dynamic Programming Tutorial Series](https://www.youtube.com/watch?v=vYquumk4nWw&list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)
 - [Hackerrank - Data Structures](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
 - [Hackerrank - Algorithms](https://www.youtube.com/watch?v=KEEKn7Me-ms&list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
 - [CS Dojo - Data Structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
@@ -41,6 +39,18 @@
 - [Progক্রিয়া](http://www.progkriya.org/gyan/)
 - [edabit](https://edabit.com/) - `Learn to code, interactively`
 - [InterviewBit](https://www.interviewbit.com/courses/programming/)
+  
+#### Dynamic Programming
+  
+- [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
+- [Dynamic Programming Tutorial Series](https://www.youtube.com/watch?v=vYquumk4nWw&list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)
+- [Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+- [Dynamic Programming II: Text Justification, Blackjack](youtube.com/watch?v=ENyox7kNKeY)
+- [DP III: Parenthesization, Edit Distance, Knapsack](https://www.youtube.com/watch?v=ocZMDMZwhCY)
+  
+#### Graph Algorithms
+  
+- [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
   
 #### Problem solving websites
   
