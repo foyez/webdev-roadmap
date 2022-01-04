@@ -34,7 +34,6 @@
 - [Hackerrank - Data Structures](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
 - [Hackerrank - Algorithms](https://www.youtube.com/watch?v=KEEKn7Me-ms&list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
 - [CS Dojo - Data Structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
-- [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 - [5 Problem Solving Tips for Cracking Coding Interview Questions](https://www.youtube.com/watch?v=GBuHSRDGZBY)
 - [Progক্রিয়া](http://www.progkriya.org/gyan/)
 - [edabit](https://edabit.com/) - `Learn to code, interactively`
@@ -42,6 +41,7 @@
   
 #### Dynamic Programming
   
+- [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 - [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 - [Dynamic Programming Tutorial Series](https://www.youtube.com/watch?v=vYquumk4nWw&list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD)
 - [Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
@@ -65,6 +65,7 @@
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - `Demonstrate all the questions on LeetCode in the form of animation.`
 - [leetcode solutions](https://github.com/azl397985856/leetcode) - `LeetCode Solutions: A Record of My Problem Solving Journey`
 - [Lintcode & Leetcode](https://aaronice.gitbook.io/lintcode)
+- [Leetcode Go](https://github.com/halfrost/LeetCode-Go)
 
 </details>
 
