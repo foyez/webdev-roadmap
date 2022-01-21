@@ -581,6 +581,7 @@ Collection of TypeScript type challenges
   
 - [react-query](https://react-query.tanstack.com/) - `Performant and powerful data
 synchronization for React`
+- [TkDodo's Blog](https://react-query.tanstack.com/community/tkdodos-blog) - `a series of blog posts about using and working with the library. Some articles show general best practices, but most have an opinionated point of view.`
   
 </details>
 
