@@ -531,11 +531,6 @@ Collection of TypeScript type challenges
 
 - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 - [Complete Intro to React and intermediate react](https://btholt.github.io/complete-intro-to-react-v6/)
-- [Kent C. Dodds' blog](https://kentcdodds.com/blog/?q=react)
-- [Epic React by Kent C. Dodds](https://epicreact.dev/articles)
-- [dmitripavlutin's blog](https://dmitripavlutin.com/tag/react/)
-- [goshakkk's blog](https://goshakkk.name/on-react/)
-- [goshakkk's forms in react](https://goshakkk.name/on-forms-react/)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [Testing React Apps - Kent C Cdodds](https://github.com/kentcdodds/testing-react-apps)
 - [reactpatterns](https://reactpatterns.com/) - `react best practices`
@@ -543,6 +538,14 @@ Collection of TypeScript type challenges
 - [Awesome React](https://github.com/enaqx/awesome-react) - `A collection of awesome things regarding React ecosystem`
 - [react-use](https://github.com/streamich/react-use) - `Custom react hook collections`
 - [react-hooks](https://nikgraf.github.io/react-hooks/)
+  
+### React blogs
+  
+- [Kent C. Dodds' blog](https://kentcdodds.com/blog/?q=react)
+- [Epic React by Kent C. Dodds](https://epicreact.dev/articles)
+- [dmitripavlutin's blog](https://dmitripavlutin.com/tag/react/)
+- [goshakkk's blog](https://goshakkk.name/on-react/)
+- [goshakkk's forms in react](https://goshakkk.name/on-forms-react/)
   
 ### React with Typscript
   
@@ -577,7 +580,7 @@ Collection of TypeScript type challenges
 - [Sharing Redux Actions and Reducers](https://www.pluralsight.com/guides/sharing-redux-actions-and-reducers)
 - [Recoil](https://recoiljs.org/)- `A state management library for React`
   
-### Useful Links
+### React-query
   
 - [react-query](https://react-query.tanstack.com/) - `Performant and powerful data
 synchronization for React`
