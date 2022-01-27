@@ -87,6 +87,23 @@
 
 ### Interview Preparation:
   
+#### Tips & Tricks
+  
+- [How to Boost Your Technical Skills](https://resources.biginterview.com/career-advice/how-to-boost-your-technical-skills/)
+- [How to Overcome Job Interview Anxiety](https://resources.biginterview.com/interviews-101/interview-anxiety/)
+- [Top 12 Tips for Making Your Resume Standout](https://resources.biginterview.com/resumes/resume-tips-to-standout/)
+  
+#### Behavioral
+  
+- [Tell Me About Yourself](https://resources.biginterview.com/interview-questions-answers/tell-me-about-yourself/)
+- [Why Should We Hire You?](https://resources.biginterview.com/interview-questions-answers/why-should-we-hire-you)
+- [How to Sell Yourself in a Job Interview](https://resources.biginterview.com/interviews-101/how-to-sell-yourself-in-an-interview/)
+- [What Are Your Strengths?](https://resources.biginterview.com/interview-questions-answers/what-are-your-strengths/)
+- [Your Greatest Accomplishments](https://resources.biginterview.com/behavioral-interviews/greatest-accomplishment-question/)
+- [Why Do You Want to Work Here?](https://resources.biginterview.com/interview-questions-answers/why-do-you-want-to-work-here/)
+- [Why Did You Leave Your Last Job?](https://resources.biginterview.com/interview-questions-answers/why-did-you-leave-your-last-job/)
+- [Top 20 Best Questions to Ask in an Interview](https://resources.biginterview.com/interview-questions-answers/best-questions-to-ask-end-interview/)
+  
 #### CS (Computer Science)
   
 - [CS-Interview-Knowledge-Map](https://github.com/TeresaTyne/CS-Interview-Knowledge-Map)
