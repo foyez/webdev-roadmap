@@ -7,7 +7,7 @@
 1. [Interview Questions](#1-interview-questions)
 2. [What are hiring managers looking for?](#2-what-are-hiring-managers-looking-for)
 3. [What should I be doing to get a job?](#3-what-should-i-be-doing-to-get-a-job)
-4. [Useful Links](#4-useful-links)
+4. [Interview Preparation](#4-interview-preparation)
 
 <br /><br />
 
@@ -80,12 +80,10 @@
 
 </details>
 
-# `4. Useful Links`
+# `4. Interview Preparation`
 
 <details>
 <summary>View contents</summary>
-
-### Interview Preparation:
   
 #### Tips & Tricks
   
@@ -100,9 +98,12 @@
 - [How to Sell Yourself in a Job Interview](https://resources.biginterview.com/interviews-101/how-to-sell-yourself-in-an-interview/)
 - [What Are Your Strengths?](https://resources.biginterview.com/interview-questions-answers/what-are-your-strengths/)
 - [Your Greatest Accomplishments](https://resources.biginterview.com/behavioral-interviews/greatest-accomplishment-question/)
+- [What Is Your Greatest Weakness?](https://resources.biginterview.com/interview-questions-answers/what-is-your-greatest-weakness/)
 - [Why Do You Want to Work Here?](https://resources.biginterview.com/interview-questions-answers/why-do-you-want-to-work-here/)
 - [Why Did You Leave Your Last Job?](https://resources.biginterview.com/interview-questions-answers/why-did-you-leave-your-last-job/)
+- [What Are Your Salary Expectations?](https://resources.biginterview.com/interview-questions-answers/salary-expectations/)
 - [Top 20 Best Questions to Ask in an Interview](https://resources.biginterview.com/interview-questions-answers/best-questions-to-ask-end-interview/)
+- [Where Do You See Yourself in 5 Years?](https://resources.biginterview.com/interview-questions-answers/where-do-you-see-yourself-five-years/)
   
 #### CS (Computer Science)
   
