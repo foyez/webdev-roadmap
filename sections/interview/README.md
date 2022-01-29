@@ -7,7 +7,8 @@
 1. [Interview Questions](#1-interview-questions)
 2. [What are hiring managers looking for?](#2-what-are-hiring-managers-looking-for)
 3. [What should I be doing to get a job?](#3-what-should-i-be-doing-to-get-a-job)
-4. [Interview Preparation](#4-interview-preparation)
+4. [Interview Mistakes](#4-interview-mistakes)
+5. [Interview Preparation](#5-interview-preparation)
 
 <br /><br />
 
@@ -80,7 +81,48 @@
 
 </details>
 
-# `4. Interview Preparation`
+# `4. Interview Mistakes`
+
+<details>
+<summary>View contents</summary>
+  
+**1. Not knowing the basic syntax of the chosen language.**
+
+For example, it's okay to forget some advanced syntax or function names. But as an interviewee, you should not be unaware of how to declare a map.
+
+**2. Not knowing the time complexity of the used data structures.**
+
+Sometimes, candidates use library-supported data structures (for example, sets in C++ standard library) but cannot tell how efficient or costly the well-known operations are in the particular data structure. It raises a red flag during the interview.
+
+**3. Jumping right into the code.**
+
+The urge to do this is interesting, but this is a trap. Even if you know the solution before the interviewer is done with explaining the problem, you should never jump right into coding. Take a step back, gather your thoughts, and share your ideas with the interviewer.
+
+**4. Asking very little to no clarifying questions.**
+
+I was surprised to see how many candidates miss this obvious thing! There are millions of articles, videos, and online courses that emphasize the importance of asking clarifying questions during an interview. Yet the absence of this practice is just mind-boggling.
+
+**5. Being unable to calculate time and space complexities.**
+
+During coding rounds, you will be asked about the time and space complexities of your solution. If a candidate doesn’t have any clue about this crucially important concept, it'is a vivid red flag.
+
+**6. Failing to understand what the problem wants and moving in the wrong direction.**
+
+I have seen candidates trying to solve a different problem due to misunderstanding the original problem. It's always best to validate your understanding by communicating back to the interviewers. This will cost you some time but is worth it.
+
+**7. Coding in absolute silence.**
+
+Do not code in absolute silence. You should engage your interviewer while writing the code. It can be difficult to talk while coding. In that case, explaining part of the code after writing can be a good strategy.
+
+**8. Not thinking out loud.**
+
+When a candidate thinks out loud, that gives the interviewers the most number of signals in terms of their capabilities. At the same time, it shows how well a candidate is in terms of communication. So many candidates think in silence. It'is okay if you pause and ponder and then explain your ideas. But remember that an interviewer should never feel left out of your thoughts.
+  
+source: [Mottakin Chowdhury's post](https://www.linkedin.com/feed/update/urn:li:activity:6892840947718221824/)
+  
+</details>
+
+# `5. Interview Preparation`
 
 <details>
 <summary>View contents</summary>
