@@ -547,6 +547,10 @@ Collection of TypeScript type challenges
 - [goshakkk's blog](https://goshakkk.name/on-react/)
 - [goshakkk's forms in react](https://goshakkk.name/on-forms-react/)
   
+### React Video Tutorials
+  
+- [Codevolution React Tutorial](https://www.youtube.com/c/Codevolution/playlists?view=50&sort=dd&shelf_id=2)
+  
 ### React with Typscript
   
 - [React with Typescript](https://stevekinney.github.io/react-and-typescript/)
@@ -559,6 +563,7 @@ Collection of TypeScript type challenges
 - [Production-Grade Next.js](https://production-grade-nextjs.vercel.app/)
 - [Awesome NextJS](https://github.com/unicodeveloper/awesome-nextjs)
 - [Production ready Next.js boilerplate](https://github.com/pankod/next-boilerplate)
+- [Codevolution Nextjs Video Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
 
 ### Gatsby
   
