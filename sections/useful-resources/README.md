@@ -103,6 +103,20 @@
 
 </details>
 
+# Browser
+
+<details>
+<summary>View contents</summary>
+
+- [Web Browser Engineering](https://browser.engineering/)
+- [Minimizing browser reflow](https://developers.google.com/speed/docs/insights/browser-reflow)
+- [Efficient JavaScript](https://dev.opera.com/articles/efficient-javascript/)
+- [REFLOWS & REPAINTS: CSS PERFORMANCE MAKING YOUR JAVASCRIPT SLOW?](http://www.stubbornella.org/content/2009/03/27/reflows-repaints-css-performance-making-your-javascript-slow/)
+- [How browser rendering works — behind the scenes](https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/)
+- [CSS Triggers](https://csstriggers.com/)
+
+</details>
+
 # Regular Expression
 
 <details>
