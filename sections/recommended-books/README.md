@@ -31,6 +31,7 @@ Don't have a CS degree? Neither does Rob. That's why he wrote this book: to fill
 ## React
 
 - [The Road to React: Your journey to master plain yet pragmatic React.js](https://www.amazon.com/Road-learn-React-pragmatic-React-js-ebook/dp/B077HJFCQX)
+- [Learning Patterns](https://www.patterns.dev/) - `A book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React`
 
 ## Startups / Entrepreneurs
 
