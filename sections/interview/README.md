@@ -133,6 +133,10 @@ source: [Mottakin Chowdhury's post](https://www.linkedin.com/feed/update/urn:li:
 - [How to Overcome Job Interview Anxiety](https://resources.biginterview.com/interviews-101/interview-anxiety/)
 - [Top 12 Tips for Making Your Resume Standout](https://resources.biginterview.com/resumes/resume-tips-to-standout/)
   
+#### Books
+  
+- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) ([Using Cracking the Coding Interview to NAIL your interviews](https://www.youtube.com/watch?v=xAxgzrj8zgU), [How to use Cracking The Coding Interview Effectively](https://www.youtube.com/watch?v=yG0RhKFTonw))
+  
 #### Behavioral
   
 - [Tell Me About Yourself](https://resources.biginterview.com/interview-questions-answers/tell-me-about-yourself/)
