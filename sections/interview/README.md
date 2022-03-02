@@ -151,6 +151,12 @@ source: [Mottakin Chowdhury's post](https://www.linkedin.com/feed/update/urn:li:
 - [Top 20 Best Questions to Ask in an Interview](https://resources.biginterview.com/interview-questions-answers/best-questions-to-ask-end-interview/)
 - [Where Do You See Yourself in 5 Years?](https://resources.biginterview.com/interview-questions-answers/where-do-you-see-yourself-five-years/)
   
+
+#### Coding Interview
+
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [5 to 23 Patterns to Ace Any Coding Interview](https://hackernoon.com/5-to-23-patterns-to-ace-any-coding-interview)
+
 #### CS (Computer Science)
   
 - [CS-Interview-Knowledge-Map](https://github.com/TeresaTyne/CS-Interview-Knowledge-Map)
