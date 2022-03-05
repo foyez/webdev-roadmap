@@ -534,6 +534,7 @@
 
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - :book: [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
+- [Typescript Exercise](https://typescript-exercises.github.io/)
 - [Typescript Tutorial](https://www.typescripttutorial.net/)
 - [Clean Code Typescript](https://github.com/labs42io/clean-code-typescript)
 - [Typescript at a glance](https://github.com/foyez/typescript)
