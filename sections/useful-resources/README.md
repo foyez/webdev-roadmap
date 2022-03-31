@@ -491,6 +491,7 @@
 
 - [JavaScript Visualizer 9000](https://www.jsv9000.app/)
 - [javascript.info](https://javascript.info) - `The Modern JavaScript Tutorial`
+- [JavaScript Track for access to 139 exercises grouped into 31 JavaScript Concepts](https://exercism.org/tracks/javascript)
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
 - [Learn Javascript](https://learnjavascript.online/) - `The easiest way to  learn  &  practice  modern JavaScript`
 - [Learn Javascript](https://www.learn-js.org/en/)
