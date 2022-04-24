@@ -493,12 +493,15 @@
 <summary>View contents</summary>
 
 - [JavaScript Visualizer 9000](https://www.jsv9000.app/)
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [javascript.info](https://javascript.info) - `The Modern JavaScript Tutorial`
 - [JavaScript Track for access to 139 exercises grouped into 31 JavaScript Concepts](https://exercism.org/tracks/javascript)
 - [JavaScript Tutorial](https://www.javascripttutorial.net/)
 - [Learn Javascript](https://learnjavascript.online/) - `The easiest way to  learn  &  practice  modern JavaScript`
 - [Learn Javascript](https://www.learn-js.org/en/)
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 - [js-unit-testing-guide](https://github.com/mawrkus/js-unit-testing-guide)
 - [JAVASCRIPT30](https://javascript30.com/) - `30 Day Vanilla JS Coding Challenge`
