@@ -177,6 +177,7 @@
 <details>
 <summary>View contents</summary>
 
+- [CodeChef Certified Data Structure & Algorithms Programme(https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
 - [Data Structure & Algorithm Visualisation](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Big O notation](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?course=dsa)
 - [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - `All Algorithms implemented in Python`
