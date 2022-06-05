@@ -69,6 +69,24 @@
 
 </details>
 
+# Data Structures / Algorithms
+
+<details>
+<summary>View contents</summary>
+
+- [CodeChef Certified Data Structure & Algorithms Programme](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+- [Data Structure & Algorithm Visualisation](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Big O notation](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?course=dsa)
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - `All Algorithms implemented in Python`
+- [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - `All the things you didn't know you wanted to know about data structures`
+- [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - `180+ Algorithm & Data Structure Problems using C++`
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - `Algorithms and data structures implemented in JavaScript with explanations and links to further readings`
+- [InterviewBit](https://www.interviewbit.com/courses/programming/)
+- [Javascript Algorithm](https://github.com/trekhleb/javascript-algorithms)
+- [Algo-DS-Interview-Prep](https://labuladong.gitbook.io/algo-en/)
+
+</details>
+
 # Learn to learn
 
 <details>
@@ -169,24 +187,6 @@
 - [Scrimba](https://scrimba.com/) - `Learn to Code with Interactive Tutorials`
 - [egghead.io](https://egghead.io/) - `Concise screencast video tutorials`
 - [Awesome Uses](https://github.com/wesbos/awesome-uses) - `A list of /uses pages detailing developer setups, gear, software and configs`
-
-</details>
-
-# Data Structures / Algorithms
-
-<details>
-<summary>View contents</summary>
-
-- [CodeChef Certified Data Structure & Algorithms Programme(https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
-- [Data Structure & Algorithm Visualisation](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- [Big O notation](https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity?course=dsa)
-- [The Algorithms - Python](https://github.com/TheAlgorithms/Python) - `All Algorithms implemented in Python`
-- [itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - `All the things you didn't know you wanted to know about data structures`
-- [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - `180+ Algorithm & Data Structure Problems using C++`
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - `Algorithms and data structures implemented in JavaScript with explanations and links to further readings`
-- [InterviewBit](https://www.interviewbit.com/courses/programming/)
-- [Javascript Algorithm](https://github.com/trekhleb/javascript-algorithms)
-- [Algo-DS-Interview-Prep](https://labuladong.gitbook.io/algo-en/)
 
 </details>
 
