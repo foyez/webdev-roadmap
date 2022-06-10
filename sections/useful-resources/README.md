@@ -252,6 +252,7 @@
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - `An ultra-simplified explanation to design patterns`
 - [refactoring-guru-design-patterns](https://refactoring.guru/design-patterns)
 - [Go Patterns](https://github.com/tmrts/go-patterns)
+- [Refactoring and Design Patterns](https://refactoring.guru/)
 
 </details>
 
