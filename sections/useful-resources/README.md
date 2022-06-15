@@ -97,6 +97,14 @@
 
 </details>
 
+# Soft Skills
+
+<details>
+<summary>View contents</summary>
+
+1. [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
+</details>
+
 # Cheatsheets
 
 <details>
