@@ -386,6 +386,7 @@
 
 - [Open Guide AWS](https://github.com/open-guides/og-aws) - `Amazon Web Services — a practical guide`
 - [Serverless Examples](https://github.com/serverless/examples) - `Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more`
+- [AWS for Frontend Engineers](https://github.com/stevekinney/aws-v2)
 
 </details>
 
