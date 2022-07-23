@@ -571,7 +571,7 @@ Collection of TypeScript type challenges
 ### React
 
 - [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
-- [Complete Intro to React and intermediate react](https://btholt.github.io/complete-intro-to-react-v6/)
+- [Complete Intro to React and intermediate react](https://btholt.github.io/complete-intro-to-react-v7/)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [Testing React Apps - Kent C Cdodds](https://github.com/kentcdodds/testing-react-apps)
 - [reactpatterns](https://reactpatterns.com/) - `react best practices`
