@@ -35,6 +35,7 @@
 - [Hackerrank - Algorithms](https://www.youtube.com/watch?v=KEEKn7Me-ms&list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
 - [CS Dojo - Data Structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [5 Problem Solving Tips for Cracking Coding Interview Questions](https://www.youtube.com/watch?v=GBuHSRDGZBY)
+- [10 popular coding interview problems course - Inside code](https://www.youtube.com/watch?v=o3DUXPRyvT8)
 - [Progক্রিয়া](http://www.progkriya.org/gyan/)
 - [edabit](https://edabit.com/) - `Learn to code, interactively`
 - [InterviewBit](https://www.interviewbit.com/courses/programming/)
@@ -387,6 +388,7 @@
 - [Open Guide AWS](https://github.com/open-guides/og-aws) - `Amazon Web Services — a practical guide`
 - [Serverless Examples](https://github.com/serverless/examples) - `Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more`
 - [AWS for Frontend Engineers](https://github.com/stevekinney/aws-v2)
+- [AWS Certified Cloud Practitioner Certification Course (CLF-C01](https://www.youtube.com/watch?v=SOTamWNgDKc&t=1005s)
 
 </details>
 
@@ -468,6 +470,7 @@
 - [HTML Best Practices](https://hail2u.github.io/html-best-practices/)
 - [HTML Reference](https://htmlreference.io/)
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+- [HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm)
 
 </details>
 
@@ -480,6 +483,7 @@
   
 - [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/topics/)
 - [CSS3 in 30 Days](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU)
+- [CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours](https://www.youtube.com/watch?v=n4R2E7O-Ngo)
 - [CSS Reference](https://cssreference.io/)
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
 - [Learn CSS Layout](https://learnlayout.com/)
