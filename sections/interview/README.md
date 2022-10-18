@@ -205,10 +205,6 @@ Data Structures And Algorithms](https://www.interviewcake.com/data-structures-an
 - [backend-challenges](https://github.com/CollabCodeTech/backend-challenges)
 - [What’s the Diff: Programs, Processes, and Threads](https://www.backblaze.com/blog/whats-the-diff-programs-processes-and-threads/)
 - [What’s the Difference between PUT vs PATCH?](https://rapidapi.com/blog/put-vs-patch/)
-  
-#### Company List
-  
-- [Hiring without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
 #### Others
 
@@ -233,4 +229,13 @@ Data Structures And Algorithms](https://www.interviewcake.com/data-structures-an
 
 - [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) - `Build fast rocket and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.`
 - [Resume Checklist](https://github.com/aneagoie/resume-checklist)
+</details>
+
+# 6. `Company List`
+
+<details>
+<summary>View contents</summary>
+  
+- [Hiring without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+- [30 Foreign Tech Companies with relocation](https://relocate.me/blog/job-relocation/30-foreign-tech-companies-are-ready-to-hire-you-in-2019/)
 </details>
