@@ -27,18 +27,26 @@
 <details>
 <summary>View contents</summary>
 
-#### Learn problem solving 
+#### Learning Resources
   
-- [Algo DS Provlem solving-interview](https://labuladong.gitbook.io/algo-en/)
-- [Coding Interview Questions and Answers](https://www.youtube.com/watch?v=qli-JCrSwuk&list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev)
-- [Hackerrank - Data Structures](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
-- [Hackerrank - Algorithms](https://www.youtube.com/watch?v=KEEKn7Me-ms&list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
+Video Tutorials
+
+- [NeetCode](https://www.youtube.com/c/NeetCode)
+- [Inside Code](https://www.youtube.com/c/Insidecode)
+- [Hackerrank (Data Structures)](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
+- [Hackerrank (Algorithms)](https://www.youtube.com/watch?v=KEEKn7Me-ms&list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
+- [CodeSignal](https://www.youtube.com/c/CodeSignal)
 - [CS Dojo - Data Structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [5 Problem Solving Tips for Cracking Coding Interview Questions](https://www.youtube.com/watch?v=GBuHSRDGZBY)
 - [10 popular coding interview problems course - Inside code](https://www.youtube.com/watch?v=o3DUXPRyvT8)
+- [Coding Interview Questions and Answers](https://www.youtube.com/watch?v=qli-JCrSwuk&list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev)
+
+Blog/websites
+
 - [Progক্রিয়া](http://www.progkriya.org/gyan/)
 - [edabit](https://edabit.com/) - `Learn to code, interactively`
 - [InterviewBit](https://www.interviewbit.com/courses/programming/)
+- [Algo DS Provlem solving-interview](https://labuladong.gitbook.io/algo-en/)
   
 #### Dynamic Programming
   
