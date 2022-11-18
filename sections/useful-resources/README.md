@@ -40,6 +40,10 @@
 - [5 Problem Solving Tips for Cracking Coding Interview Questions](https://www.youtube.com/watch?v=GBuHSRDGZBY)
 - [10 popular coding interview problems course - Inside code](https://www.youtube.com/watch?v=o3DUXPRyvT8)
 - [Coding Interview Questions and Answers](https://www.youtube.com/watch?v=qli-JCrSwuk&list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev)
+  
+#### Linked List
+  
+- [Linked Lists for Technical Interviews](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
 
 #### Binary Search
 
