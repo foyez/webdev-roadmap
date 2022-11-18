@@ -29,7 +29,7 @@
 
 #### Learning Resources
   
-Video Tutorials
+#### Video Tutorials
 
 - [NeetCode](https://www.youtube.com/c/NeetCode)
 - [Inside Code](https://www.youtube.com/c/Insidecode)
@@ -41,16 +41,12 @@ Video Tutorials
 - [10 popular coding interview problems course - Inside code](https://www.youtube.com/watch?v=o3DUXPRyvT8)
 - [Coding Interview Questions and Answers](https://www.youtube.com/watch?v=qli-JCrSwuk&list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev)
 
-Blog/websites
-
-- [Progক্রিয়া](http://www.progkriya.org/gyan/)
-- [edabit](https://edabit.com/) - `Learn to code, interactively`
-- [InterviewBit](https://www.interviewbit.com/courses/programming/)
-- [Algo DS Provlem solving-interview](https://labuladong.gitbook.io/algo-en/)
-
 #### Binary Search
 
 - [Powerful Ultimate Binary Search Template. Solved many problems](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/discuss/769698/Python-Clear-explanation-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems.)
+
+#### Binary Tree
+- [Binary Tree Algorithms for Technical Interviews](https://www.youtube.com/watch?v=fAAZixBzIAI)
   
 #### Dynamic Programming
   
@@ -65,8 +61,12 @@ Blog/websites
   
 - [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
   
-#### Problem solving websites
-  
+#### Blog/websites
+
+- [Progক্রিয়া](http://www.progkriya.org/gyan/)
+- [edabit](https://edabit.com/) - `Learn to code, interactively`
+- [InterviewBit](https://www.interviewbit.com/courses/programming/)
+- [Algo DS Provlem solving-interview](https://labuladong.gitbook.io/algo-en/)
 - [Codewars](https://www.codewars.com/) - `Codewars: Achieve mastery through challenge`
 - [HackerRank](https://www.hackerrank.com/) - `Learn problem solving and remote interview solution for hiring developers`
 - [Leetcode](https://leetcode.com/)
