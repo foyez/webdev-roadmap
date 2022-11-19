@@ -291,6 +291,7 @@
   
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - `Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.`
+- [System Design: The complete course](https://kps.hashnode.dev/system-design-the-complete-course)
 - [System Design](https://github.com/DreamOfTheRedChamber/system-design) - `Preparing for system design interview questions`
 - [System Design Bangla](https://imtiaz-hossain-emu.gitbook.io/system-design)
 
