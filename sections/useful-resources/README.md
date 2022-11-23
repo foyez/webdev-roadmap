@@ -465,6 +465,7 @@
 
 ### Docker
   
+- [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
 - [DevOps with Docker](https://devopswithdocker.com/)
 - [Docker Handbook](https://docker-handbook.farhan.dev/)
 - [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
