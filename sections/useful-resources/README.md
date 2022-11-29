@@ -1,33 +1,9 @@
 # Useful Resources
 
-- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - `A collection of (mostly) technical things every software developer should know`
-- [DigitalOcean Community Glossary](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary) - `DigitalOcean's tutorial list`
-- [The book of secrete knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) -`A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more`
-- [realworld](https://github.com/gothinkster/realworld) - `The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅`
-- [Complete Intro to Computer Science](https://btholt.github.io/complete-intro-to-computer-science/)
-- [Developers Roadmap](https://roadmap.sh/) - `Step by step guides and paths to learn different tools or technologies`
-- [Eric Elliott](https://medium.com/@_ericelliott)
-- [bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources)
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - `A complete computer science study plan to become a software engineer.`
-- [Awesome](https://github.com/sindresorhus/awesome) - `Awesome lists about all kinds of interesting topics`
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - `Build your own (insert technology here)`
-- [cheat.sh](https://github.com/chubin/cheat.sh) - `the only cheat sheet you need`
-- [project-based-learning](https://github.com/tuvtran/project-based-learning) - `Curated list of project-based tutorials`
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - `A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.`
-- [computer-science](https://github.com/ossu/computer-science) - `Path to a free self-taught education in Computer Science!`
-- [project-guidelines](https://github.com/elsewhencode/project-guidelines) - `A set of best practices for JavaScript projects`
-- [Engineering Practices](https://github.com/google/eng-practices) - `Google's Engineering Practices documentation`
-- [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM)
-- [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
-- [Professional Programming ](https://github.com/charlax/professional-programming) - `A collection of full-stack resources for programmers`
-- [Public APIs](https://github.com/public-apis/public-apis)
-
 # Problem Solving
 
 <details>
 <summary>View contents</summary>
-
-#### Learning Resources
   
 #### Video Tutorials
 
@@ -105,35 +81,6 @@
 
 </details>
 
-# Learn to learn
-
-<details>
-<summary>View contents</summary>
-  
-- [How To Effectively Learn As A Developer](https://programmingwithmosh.com/general/how-to-effectively-learn-as-a-developer)
-- [Lessons Learned from My Journey as a Self-Taught Developer](https://www.freecodecamp.org/news/lessons-learned-from-my-journey-as-a-self-taught-developer)
-
-</details>
-
-# Soft Skills
-
-<details>
-<summary>View contents</summary>
-
-1. [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
-</details>
-
-# Cheatsheets
-
-<details>
-<summary>View contents</summary>
-
-- [Rico's cheatsheets](https://devhints.io/)
-- [Big-O cheatsheet](https://www.bigocheatsheet.com/)
-- [Bangla Developer Cheatsheet](https://devsonket.com/)
-
-</details>
-
 # Git
 
 <details>
@@ -144,33 +91,6 @@
 - [Getting started with Git](https://www.taniarascia.com/getting-started-with-git/)
 - [Git at a glance](https://github.com/foyez/git)
 - [gitmoji](https://gitmoji.dev/) - `An emoji guide for your commit messages`
-
-</details>
-
-# Browser
-
-<details>
-<summary>View contents</summary>
-
-- [Web Browser Engineering](https://browser.engineering/)
-- [Minimizing browser reflow](https://developers.google.com/speed/docs/insights/browser-reflow)
-- [Efficient JavaScript](https://dev.opera.com/articles/efficient-javascript/)
-- [REFLOWS & REPAINTS: CSS PERFORMANCE MAKING YOUR JAVASCRIPT SLOW?](http://www.stubbornella.org/content/2009/03/27/reflows-repaints-css-performance-making-your-javascript-slow/)
-- [How browser rendering works — behind the scenes](https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/)
-- [CSS Triggers](https://csstriggers.com/)
-
-</details>
-
-# Regular Expression
-
-<details>
-<summary>View contents</summary>
-
-- [Regex at a glance](https://github.com/foyez/regex)
-- [Regex cheatsheet](https://ihateregex.io)
-- [RegExr](https://regexr.com/)
-- [Regex101](https://regex101.com/)
-- [Learn regular expression in 20 minutes](https://youtu.be/rhzKDrUiJVk)
 
 </details>
 
@@ -191,28 +111,6 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - `Master the command line, in one page`
 - [Bash Script](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - [How to create and use bash scripts](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
-
-</details>
-
-# Clean Code
-
-<details>
-<summary>View contents</summary>
-
-- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
-
-</details>
-
-# Tutorials / Bootcamp:
-
-<details>
-<summary>View contents</summary>
-
-- [The Recurse Center](https://www.recurse.com/) - `self-directed, community-driven educational retreat for programmers in New York City`
-- [Scrimba](https://scrimba.com/) - `Learn to Code with Interactive Tutorials`
-- [egghead.io](https://egghead.io/) - `Concise screencast video tutorials`
-- [Awesome Uses](https://github.com/wesbos/awesome-uses) - `A list of /uses pages detailing developer setups, gear, software and configs`
 
 </details>
 
@@ -341,13 +239,14 @@
 
 </details>
 
-# Agile Methodology
+# Clean Code
 
 <details>
 <summary>View contents</summary>
-  
-- [Awesome Agile](https://github.com/lorabv/awesome-agile) - `Awesome List of resources on Agile Software Development.`
-  
+
+- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
+
 </details>
 
 # Website availability
@@ -357,6 +256,15 @@
 
 - [Learn about Website Availability](https://www.imperva.com/learn/availability/)
 
+</details>
+
+# Agile Methodology
+
+<details>
+<summary>View contents</summary>
+  
+- [Awesome Agile](https://github.com/lorabv/awesome-agile) - `Awesome List of resources on Agile Software Development.`
+  
 </details>
 
 # Database
@@ -378,6 +286,16 @@
 
 </details>
 
+# Testing
+
+<details>
+<summary>View contents</summary>
+  
+- [Full Stack Open Test-Driven Development](https://tdd.mooc.fi/)
+- [Testing Web Apps with Cypress](https://github.com/stevekinney/cypress/tree/main/lessons) - [Frontend Masters](https://frontendmasters.com/courses/cypress/)
+  
+</details>
+
 # CI/CD - `CircleCI, TravisCI, Jenkins, etc`
 
 <details>
@@ -386,15 +304,6 @@
 - [Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd)
 - [Continuous Integration with CircleCI and NodeJS](https://medium.com/meshstudio/continuous-integration-with-circleci-and-nodejs-44c3cf0074a0)
 - [Fullstack CI/CD](https://fullstackopen.com/en/part11)
-
-</details>
-
-# SEO (Search Engine Optimisation)
-
-<details>
-<summary>View contents</summary>
-
-- :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/blog/what-every-programmer-should-know-about-seo)
 
 </details>
 
@@ -421,40 +330,6 @@
   
 </details>
 
-# Front End
-
-<details>
-<summary>View contents</summary>
-
-- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - `The only Front-End Performance Checklist that runs faster than the others`
-- [Front End Guide](https://github.com/grab/front-end-guide) - `Study guide and introduction to the modern front end stack`
-- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - `The perfect Front-End Checklist for modern websites and meticulous developers`
-- [Design Blocks](https://github.com/froala/design-blocks) - `A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites`
-- [Front End Optimization](https://www.imperva.com/learn/performance/front-end-optimization-feo/)
-- [Fantastic Front-End Performance Tricks & Why We Do Them](https://buttercms.com/blog/front-end-performance-optimization-techniques)
-
-</details>
-
-# Full Stack
-
-<details>
-<summary>View contents</summary>
-
-- [Fullstack Open](https://fullstackopen.com/en/) - `Deep Dive Into Modern Web Development`
-- [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - `Free resources for learning Full Stack Web Development`
-
-</details>
-
-# Testing
-
-<details>
-<summary>View contents</summary>
-  
-- [Full Stack Open Test-Driven Development](https://tdd.mooc.fi/)
-- [Testing Web Apps with Cypress](https://github.com/stevekinney/cypress/tree/main/lessons) - [Frontend Masters](https://frontendmasters.com/courses/cypress/)
-  
-</details>
-
 # DevOps
 
 <details>
@@ -472,55 +347,16 @@
 - [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 - [Docker and Node.js Best Practices](https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md)
 - [Docker Commands, Help & Tips](https://gist.github.com/foyez/38567ccae815c2d524563bdaf604ec9e)
+- [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+- [Best practices for scanning images](https://docs.docker.com/develop/scan-images/)
 - [Dockerode](https://github.com/apocas/dockerode)
+- [Docker Blog](https://emmer.dev/blog/tag/docker/)
   
 ### Kubernates
   
 - [DevOps with Kubernetes](https://devopswithkubernetes.com/)
 
 </details>
-
-# HTML
-
-<details>
-<summary>View contents</summary>
-
-- [Learn HTML](https://www.learn-html.org/)
-- [HTML Best Practices](https://hail2u.github.io/html-best-practices/)
-- [HTML Reference](https://htmlreference.io/)
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
-- [HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm)
-
-</details>
-
-# CSS / SASS
-
-<details>
-<summary>View contents</summary>
-  
-### CSS
-  
-- [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/topics/)
-- [CSS3 in 30 Days](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU)
-- [CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours](https://www.youtube.com/watch?v=n4R2E7O-Ngo)
-- [CSS Reference](https://cssreference.io/)
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
-- [Learn CSS Layout](https://learnlayout.com/)
-- [Learn CSS step by step](https://www.csstutorial.net/)
-- [Learn about Colors](http://www.hexinvaders.com/)
-- [You Don't Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - `CSS is powerful, you can do a lot of things without JS`
-- [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
-- [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
-- [Getting Started with CSS Grid: Anatomy](https://www.viget.com/articles/getting-started-with-css-grid-part-1/)
-- [Learn CSS](https://web.dev/learn/css/)
-- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - `Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more`
-  
-### SASS
-  
-- [Sass Guideline](https://github.com/foyez/scss)
-
-</details>
-
 
 # Javascript
 
@@ -557,16 +393,6 @@
 - [JavaScript Promises: An introduction](https://web.dev/promises/)
 - [Concurrency model and the event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 
-</details>
-
-# CSS & Javascrit
-
-<details>
-<summary>View contents</summary>
-  
-- [Emulating CSS Timing Functions with JavaScript](https://css-tricks.com/emulating-css-timing-functions-javascript/)
-- [Simple Swipe with Vanilla JavaScript](https://css-tricks.com/simple-swipe-with-vanilla-javascript/)
-  
 </details>
 
 # Typescript
@@ -726,4 +552,186 @@ synchronization for React`
   
 - [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 
+</details>
+
+# HTML
+
+<details>
+<summary>View contents</summary>
+
+- [Learn HTML](https://www.learn-html.org/)
+- [HTML Best Practices](https://hail2u.github.io/html-best-practices/)
+- [HTML Reference](https://htmlreference.io/)
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+- [HTML Full Course for Beginners | Complete All-in-One Tutorial | 4 Hours](https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm)
+
+</details>
+
+# CSS / SASS
+
+<details>
+<summary>View contents</summary>
+  
+### CSS
+  
+- [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/topics/)
+- [CSS3 in 30 Days](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU)
+- [CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours](https://www.youtube.com/watch?v=n4R2E7O-Ngo)
+- [CSS Reference](https://cssreference.io/)
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+- [Learn CSS Layout](https://learnlayout.com/)
+- [Learn CSS step by step](https://www.csstutorial.net/)
+- [Learn about Colors](http://www.hexinvaders.com/)
+- [You Don't Need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - `CSS is powerful, you can do a lot of things without JS`
+- [CSS Diner - Where we feast on CSS Selectors!](https://flukeout.github.io/)
+- [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
+- [Getting Started with CSS Grid: Anatomy](https://www.viget.com/articles/getting-started-with-css-grid-part-1/)
+- [Learn CSS](https://web.dev/learn/css/)
+- [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) - `Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more`
+  
+### SASS
+  
+- [Sass Guideline](https://github.com/foyez/scss)
+
+</details>
+
+# CSS & Javascrit
+
+<details>
+<summary>View contents</summary>
+  
+- [Emulating CSS Timing Functions with JavaScript](https://css-tricks.com/emulating-css-timing-functions-javascript/)
+- [Simple Swipe with Vanilla JavaScript](https://css-tricks.com/simple-swipe-with-vanilla-javascript/)
+  
+</details>
+
+# Front End
+
+<details>
+<summary>View contents</summary>
+
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - `The only Front-End Performance Checklist that runs faster than the others`
+- [Front End Guide](https://github.com/grab/front-end-guide) - `Study guide and introduction to the modern front end stack`
+- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - `The perfect Front-End Checklist for modern websites and meticulous developers`
+- [Design Blocks](https://github.com/froala/design-blocks) - `A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites`
+- [Front End Optimization](https://www.imperva.com/learn/performance/front-end-optimization-feo/)
+- [Fantastic Front-End Performance Tricks & Why We Do Them](https://buttercms.com/blog/front-end-performance-optimization-techniques)
+
+</details>
+
+# Full Stack
+
+<details>
+<summary>View contents</summary>
+
+- [Fullstack Open](https://fullstackopen.com/en/) - `Deep Dive Into Modern Web Development`
+- [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - `Free resources for learning Full Stack Web Development`
+
+</details>
+
+
+# SEO (Search Engine Optimisation)
+
+<details>
+<summary>View contents</summary>
+
+- :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/blog/what-every-programmer-should-know-about-seo)
+
+</details>
+
+# Browser
+
+<details>
+<summary>View contents</summary>
+
+- [Web Browser Engineering](https://browser.engineering/)
+- [Minimizing browser reflow](https://developers.google.com/speed/docs/insights/browser-reflow)
+- [Efficient JavaScript](https://dev.opera.com/articles/efficient-javascript/)
+- [REFLOWS & REPAINTS: CSS PERFORMANCE MAKING YOUR JAVASCRIPT SLOW?](http://www.stubbornella.org/content/2009/03/27/reflows-repaints-css-performance-making-your-javascript-slow/)
+- [How browser rendering works — behind the scenes](https://blog.logrocket.com/how-browser-rendering-works-behind-scenes/)
+- [CSS Triggers](https://csstriggers.com/)
+
+</details>
+
+# Regular Expression
+
+<details>
+<summary>View contents</summary>
+
+- [Regex at a glance](https://github.com/foyez/regex)
+- [Regex cheatsheet](https://ihateregex.io)
+- [RegExr](https://regexr.com/)
+- [Regex101](https://regex101.com/)
+- [Learn regular expression in 20 minutes](https://youtu.be/rhzKDrUiJVk)
+
+</details>
+
+# Learn to learn
+
+<details>
+<summary>View contents</summary>
+  
+- [How To Effectively Learn As A Developer](https://programmingwithmosh.com/general/how-to-effectively-learn-as-a-developer)
+- [Lessons Learned from My Journey as a Self-Taught Developer](https://www.freecodecamp.org/news/lessons-learned-from-my-journey-as-a-self-taught-developer)
+
+</details>
+
+# Soft Skills
+
+<details>
+<summary>View contents</summary>
+
+1. [Software Engineering - The Soft Parts](https://addyosmani.com/blog/software-engineering-soft-parts/)
+</details>
+
+# Cheatsheets
+
+<details>
+<summary>View contents</summary>
+
+- [Rico's cheatsheets](https://devhints.io/)
+- [Big-O cheatsheet](https://www.bigocheatsheet.com/)
+- [Bangla Developer Cheatsheet](https://devsonket.com/)
+
+</details>
+
+# Tutorials / Bootcamp:
+
+<details>
+<summary>View contents</summary>
+
+- [The Recurse Center](https://www.recurse.com/) - `self-directed, community-driven educational retreat for programmers in New York City`
+- [Scrimba](https://scrimba.com/) - `Learn to Code with Interactive Tutorials`
+- [egghead.io](https://egghead.io/) - `Concise screencast video tutorials`
+- [Awesome Uses](https://github.com/wesbos/awesome-uses) - `A list of /uses pages detailing developer setups, gear, software and configs`
+
+</details>
+
+# Must Know
+
+<details>
+<summary>View contents</summary>
+  
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - `A collection of (mostly) technical things every software developer should know`
+- [DigitalOcean Community Glossary](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary) - `DigitalOcean's tutorial list`
+- [The book of secrete knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) -`A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more`
+- [realworld](https://github.com/gothinkster/realworld) - `The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅`
+- [Complete Intro to Computer Science](https://btholt.github.io/complete-intro-to-computer-science/)
+- [Developers Roadmap](https://roadmap.sh/) - `Step by step guides and paths to learn different tools or technologies`
+- [Eric Elliott](https://medium.com/@_ericelliott)
+- [bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - `A complete computer science study plan to become a software engineer.`
+- [Awesome](https://github.com/sindresorhus/awesome) - `Awesome lists about all kinds of interesting topics`
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - `Build your own (insert technology here)`
+- [cheat.sh](https://github.com/chubin/cheat.sh) - `the only cheat sheet you need`
+- [project-based-learning](https://github.com/tuvtran/project-based-learning) - `Curated list of project-based tutorials`
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - `A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.`
+- [computer-science](https://github.com/ossu/computer-science) - `Path to a free self-taught education in Computer Science!`
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines) - `A set of best practices for JavaScript projects`
+- [Engineering Practices](https://github.com/google/eng-practices) - `Google's Engineering Practices documentation`
+- [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM)
+- [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
+- [Professional Programming ](https://github.com/charlax/professional-programming) - `A collection of full-stack resources for programmers`
+- [Public APIs](https://github.com/public-apis/public-apis)
+  
 </details>
