@@ -347,6 +347,7 @@
 - [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 - [Docker and Node.js Best Practices](https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md)
 - [Docker Commands, Help & Tips](https://gist.github.com/foyez/38567ccae815c2d524563bdaf604ec9e)
+- [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/)
 - [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 - [Best practices for scanning images](https://docs.docker.com/develop/scan-images/)
 - [Dockerode](https://github.com/apocas/dockerode)
