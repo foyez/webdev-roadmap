@@ -350,6 +350,7 @@
 - [Best practices for scanning images](https://docs.docker.com/develop/scan-images/)
 - [Dockerode](https://github.com/apocas/dockerode)
 - [Docker Blog](https://emmer.dev/blog/tag/docker/)
+- [Docker RUN vs CMD vs ENTRYPOINT](https://codewithyury.com/docker-run-vs-cmd-vs-entrypoint/)
   
 #### Docker with Nodejs
   
