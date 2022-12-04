@@ -533,17 +533,18 @@ synchronization for React`
 <summary>View contents</summary>
 
 - [DigitalOcean: Go](https://www.digitalocean.com/community/tags/go)
+- [Golang Web Development](https://github.com/GoesToEleven/golang-web-dev)
 - [Build web application with golang](https://github.com/astaxie/build-web-application-with-golang) - `A golang ebook intro how to build a web with golang`
-- [Go Patterns](https://github.com/tmrts/go-patterns) - `Curated list of Go design patterns, recipes and idioms`
 - [Learn Go with Tests](https://github.com/quii/learn-go-with-tests) - `Learn Go with test-driven development`
 - [Go for Javascript Developers](https://www.pazams.com/Go-for-Javascript-Developers/)
 - [Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
+- [Go Patterns](https://github.com/tmrts/go-patterns) - `Curated list of Go design patterns, recipes and idioms`
+- [Clean Go Article](https://github.com/Pungyeon/clean-go-article)
 - [Go Tour](https://tour.golang.org/list)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Go by Example](https://gobyexample.com/)
 - [Go Doc](https://golang.org/doc/)
 - [Go Blog](https://blog.golang.org/)
-- [Clean Go Article](https://github.com/Pungyeon/clean-go-article)
 
 </details>
 
