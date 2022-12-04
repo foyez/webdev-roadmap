@@ -352,20 +352,21 @@
 - [Docker Blog](https://emmer.dev/blog/tag/docker/)
 - [Docker RUN vs CMD vs ENTRYPOINT](https://codewithyury.com/docker-run-vs-cmd-vs-entrypoint/)
   
-#### Docker with Nodejs
-  
-- [NGINX with Docker and Node.js — a Beginner’s guide](https://ashwin9798.medium.com/nginx-with-docker-and-node-js-a-beginners-guide-434fe1216b6b)
-- [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
-- [How To Secure a Containerized Node.js Application with Nginx, Let's Encrypt, and Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-secure-a-containerized-node-js-application-with-nginx-let-s-encrypt-and-docker-compose)
-- [Docker and Node.js Best Practices](https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md)
-  
-#### Docker with Golang
-  
-- [Build Golang App with Docker](https://github.com/GoesToEleven/golang-web-dev/tree/master/043_docker)
-  
 ### Kubernates
   
 - [DevOps with Kubernetes](https://devopswithkubernetes.com/)
+  
+### Docker with Nodejs
+  
+- [NGINX with Docker and Node.js — a Beginner’s guide](https://ashwin9798.medium.com/nginx-with-docker-and-node-js-a-beginners-guide-434fe1216b6b)
+- [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+- [eBook: From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook)
+- [Docker and Node.js Best Practices](https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md)
+  
+
+### Docker with Golang
+  
+- [Build Golang App with Docker](https://github.com/GoesToEleven/golang-web-dev/tree/master/043_docker)
 
 </details>
 
