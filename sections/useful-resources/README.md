@@ -514,6 +514,7 @@ synchronization for React`
 - [Express Graphql](https://github.com/graphql/express-graphql)
 - [Learn You The Node.js](https://github.com/workshopper/learnyounode) - `Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.`
 - [Testing Node Apps](https://github.com/kentcdodds/testing-node-apps)
+- [REST API Design Best Practices Handbook](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/)
 
 </details>
 
