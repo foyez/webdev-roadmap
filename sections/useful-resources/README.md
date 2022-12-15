@@ -733,6 +733,7 @@ synchronization for React`
   
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) - `A collection of (mostly) technical things every software developer should know`
 - [DigitalOcean Community Glossary](https://www.digitalocean.com/community/tutorials/digitalocean-community-glossary) - `DigitalOcean's tutorial list`
+- [Engineering Management](https://github.com/charlax/engineering-management) - `A collection of inspiring resources related to engineering management and tech leadership`
 - [The book of secrete knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) -`A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more`
 - [realworld](https://github.com/gothinkster/realworld) - `The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅`
 - [Complete Intro to Computer Science](https://btholt.github.io/complete-intro-to-computer-science/)
