@@ -523,6 +523,7 @@ synchronization for React`
 <details>
 <summary>View contents</summary>
 
+- [Awesome Python](https://github.com/vinta/awesome-python) - `A curated list of awesome Python frameworks, libraries, software and resources.`
 - [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 - [Python Guide](https://github.com/realpython/python-guide) - `Python best practices guidebook, written for humans.`
 
@@ -534,6 +535,7 @@ synchronization for React`
 <summary>View contents</summary>
 
 - [DigitalOcean: Go](https://www.digitalocean.com/community/tags/go)
+- [Awesome Go](https://github.com/avelino/awesome-go) - `A curated list of awesome Go frameworks, libraries, and software.`
 - [Golang Web Development](https://github.com/GoesToEleven/golang-web-dev)
 - [Build web application with golang](https://github.com/astaxie/build-web-application-with-golang) - `A golang ebook intro how to build a web with golang`
 - [Learn Go with Tests](https://github.com/quii/learn-go-with-tests) - `Learn Go with test-driven development`
