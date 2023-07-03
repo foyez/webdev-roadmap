@@ -343,6 +343,7 @@
 - [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
 - [DevOps with Docker](https://devopswithdocker.com/)
 - [Docker Handbook](https://docker-handbook.farhan.dev/)
+- [Setting Python Development Environment with VScode and Docker](https://github.com/RamiKrispin/vscode-python)
 - [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
 - [Docker Commands, Help & Tips](https://gist.github.com/foyez/38567ccae815c2d524563bdaf604ec9e)
 - [Dockerfile Reference](https://docs.docker.com/engine/reference/builder/)
