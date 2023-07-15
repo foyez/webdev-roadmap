@@ -414,6 +414,7 @@
 <summary>View contents</summary>
 
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+- [TotalTypeScript](https://www.totaltypescript.com/) - A comprehensive production-grade TypeScript training by Matt Pocock
 - :book: [Typescript Deep Dive](https://basarat.gitbook.io/typescript/)
 - [Typescript Exercise](https://typescript-exercises.github.io/)
 - [Typescript Tutorial](https://www.typescripttutorial.net/)
