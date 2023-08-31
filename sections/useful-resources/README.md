@@ -178,6 +178,8 @@
 - [refactoring-guru-design-patterns](https://refactoring.guru/design-patterns)
 - [Go Patterns](https://github.com/tmrts/go-patterns)
 - [Refactoring and Design Patterns](https://refactoring.guru/)
+- [React design and performance patterns](https://www.patterns.dev/posts)
+- [JavaScript Patterns](https://javascriptpatterns.vercel.app/patterns)
 
 </details>
 
