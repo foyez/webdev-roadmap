@@ -645,6 +645,15 @@ synchronization for React`
 
 </details>
 
+# Backend
+
+<details>
+<summary>View contents</summary>
+
+- [CAREER PATH: BACK-END DEVELOPER](https://www.boot.dev/)
+
+</details>
+
 # Full Stack
 
 <details>
