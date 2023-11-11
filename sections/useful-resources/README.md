@@ -447,6 +447,7 @@ Collection of TypeScript type challenges
 - [Awesome React](https://github.com/enaqx/awesome-react) - `A collection of awesome things regarding React ecosystem`
 - [react-use](https://github.com/streamich/react-use) - `Custom react hook collections`
 - [react-hooks](https://nikgraf.github.io/react-hooks/)
+- [Under the Hood: React](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
   
 ### React blogs
   
