@@ -743,6 +743,17 @@ synchronization for React`
 
 </details>
 
+# Resume
+
+<details>
+<summary>View contents</summary>
+  
+- [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) - `Build fast rocket and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.`
+- [r/EngineeringResumes](https://www.reddit.com/r/EngineeringResumes/wiki/index/?rdt=33269#wiki_you_should.3A)
+- [Resume Checklist](https://github.com/aneagoie/resume-checklist)
+
+</details>
+
 # Must Know
 
 <details>
