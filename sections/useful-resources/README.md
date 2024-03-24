@@ -359,6 +359,7 @@
 ### Kubernates
   
 - [DevOps with Kubernetes](https://devopswithkubernetes.com/)
+- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
   
 ### Docker with Nodejs
   
