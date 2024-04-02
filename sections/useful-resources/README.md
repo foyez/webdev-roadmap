@@ -1,5 +1,20 @@
 # Useful Resources
 
+# Blogs
+
+<details>
+<summary>View contents</summary>
+
+- [Daily dev](https://app.daily.dev/)
+- [kamranahmed's blog posts](https://kamranahmed.info/posts)
+- [Andrei Neagoie's blog posts](https://zerotomastery.io/about/instructor/andrei-neagoie/)
+- [Addy Osmani's blog posts](https://addyosmani.com/blog/)
+- [kentcdodds' blog posts](https://kentcdodds.com/blog)
+- [dmitripavlutin's blog posts](https://dmitripavlutin.com/all-posts/)
+- [Gosha Spark's blog posts](https://goshacmd.com/) - `Juicy things on React`
+
+</details>
+
 # Problem Solving
 
 <details>
