@@ -374,7 +374,12 @@
 ### Kubernates
   
 - [DevOps with Kubernetes](https://devopswithkubernetes.com/)
+- [Kubernetes Basic Learning](https://github.com/knrt10/kubernetes-basicLearning)
 - [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Kubernetes For You](https://github.com/ajeetraina/kubernetes101)
+- [Learn Kubernetes from Scratch](https://morioh.com/a/970dae68e5dc/learn-kubernetes-from-scratch-or-kubernetes-cheat-sheet)
+- [Kubernetes Learning Resources](https://github.com/kubernauts/Kubernetes-Learning-Resources/blob/master/pages/resources.md)
+- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
   
 ### Docker with Nodejs
   
