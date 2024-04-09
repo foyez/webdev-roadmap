@@ -380,6 +380,11 @@
 - [Learn Kubernetes from Scratch](https://morioh.com/a/970dae68e5dc/learn-kubernetes-from-scratch-or-kubernetes-cheat-sheet)
 - [Kubernetes Learning Resources](https://github.com/kubernauts/Kubernetes-Learning-Resources/blob/master/pages/resources.md)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
+#### CKA
+
+- [How I Passed my CKA Exam?](https://cloudchamp.notion.site/How-I-Passed-my-CKA-Exam-55fef633b454438aadc54a7261312ec9)
+- [CKA Course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course)
   
 ### Docker with Nodejs
   
