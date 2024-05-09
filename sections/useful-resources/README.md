@@ -310,7 +310,12 @@
 <summary>View contents</summary>
   
 - [Full Stack Open Test-Driven Development](https://tdd.mooc.fi/)
-- [Testing Web Apps with Cypress](https://github.com/stevekinney/cypress/tree/main/lessons) - [Frontend Masters](https://frontendmasters.com/courses/cypress/)
+- [Testing Web Apps with Cypress](https://github.com/stevekinney/cypress/tree/main/lessons)
+- [Frontend Masters Testing Web Apps with Cypress](https://frontendmasters.com/courses/cypress/)
+- [Testing JavaScript with Cypress](https://www.youtube.com/watch?v=u8vMu7viCm8)
+- [React Testing Tutorial - Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
+- [React Testing for Beginners - Mosh](https://www.youtube.com/watch?v=8Xwq35cPwYg)
+- [TypeScript/React Testing: Components, Hooks, Custom Hooks, Redux and Zustand - Jack Herrington](https://www.youtube.com/watch?v=bvdHVxqjv80)
   
 </details>
 
@@ -663,6 +668,7 @@ synchronization for React`
 <details>
 <summary>View contents</summary>
 
+- [The Front End Developer/Engineer Handbook 2024](https://frontendmasters.com/guides/front-end-handbook/2024/)
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - `The only Front-End Performance Checklist that runs faster than the others`
 - [Front End Guide](https://github.com/grab/front-end-guide) - `Study guide and introduction to the modern front end stack`
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - `The perfect Front-End Checklist for modern websites and meticulous developers`
