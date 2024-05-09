@@ -126,6 +126,8 @@ source: [Mottakin Chowdhury's post](https://www.linkedin.com/feed/update/urn:li:
 
 <details>
 <summary>View contents</summary>
+
+- [Common Interview Questions](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/)
   
 #### Tips & Tricks
   
