@@ -210,6 +210,7 @@ Data Structures And Algorithms](https://www.interviewcake.com/data-structures-an
 
 #### Others
 
+- [Interview Questions Bangladesh](https://github.com/TamimEhsan/interview-questions-bangladesh)
 - [Soft skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 - [CodeSignal](https://codesignal.com/) - `Coding Tests and Assessments for Technical Hiring`
 - [Pramp](https://www.pramp.com) - `Practice Mock Interviews &amp; Coding Problems - Land Top Jobs`
