@@ -2,6 +2,12 @@
 
 # Interview
 
+To truly stand out, make sure you come equipped with:
+
+- A thorough understanding of the company & role.
+- Your top 3 reasons why you're a perfect fit.
+- 5 or more compelling stories from your past experiences that showcase your skills.
+
 ## Table of contents
 
 1. [Interview Questions](#1-interview-questions)
@@ -19,14 +25,18 @@
 
 ## ![✔] 1.1 Tell me a little bit about yourself
 
+- **Tip**: Choose which skills and career highlights to emphasize.
+- **Answer**: Share an engaging story highlighting your journey and how this role is the next step.
 - “What” you are professionally, combined with “who” you are as a person (attributes) = “why” I am a good candidate for this role.
 
 ## ![✔] 1.2 Why did you leave your last role/why do you want to leave your current role?
 
 - Do not speak badly of companies or senior management.
 
-## ![✔] 1.3 Why do you want to work for this company?
+## ![✔] 1.3 Why do you want to work for this company? / What about this position most interests you?
 
+- **Tip**: Research the company and the role thoroughly.
+- **Answer**: Be specific about the impact you want to make and how your skills align.
 - Thoroughly research the company website, departments, management structure, competitors.
 - Review Bloomberg, FT, Wall Street Journal, etc. for mention of the company over past 6 months.
   Review employee testimonials on Glassdoor.
@@ -40,13 +50,115 @@
 
 - Relate strengths, transferable skills and achievements to the job requirements.
 
-## ![✔] 1.6 What is your salary expectation?
+## ![✔] 1.6 What are your strengths?
+
+- **Tip**: Select strengths that are relevant to the role.
+- **Answer**: Highlight 2-3 strengths with memorable examples of your achievements.
+
+## ![✔] 1.7 Tell me about the last time you failed. How did you handle it?
+
+- **Tip**: Demonstrate humility and a growth mindset.
+- **Answer**: Share a story of a setback and what you learned from it.
+
+## ![✔] 1.8 Describe a time you motivated someone else. How did you do it?
+
+- **Tip**: Exhibit leadership qualities.
+- **Answer**: Provide an example where your positivity and persistence made a difference.
+
+## ![✔] 1.9 Tell me about a time you had to manage multiple projects. How did you still get a great result?
+
+- **Tip**: Emphasize your time management skills.
+- **Answer**: Describe a system you used to successfully manage your workload.
+
+## ![✔] 1.10 Describe a situation when you adapted to a major change at work. What happened?
+
+- **Tip**: Show enthusiasm for change.
+- **Answer**: Share an instance where you quickly adjusted to a significant change.
+
+## ![✔] 1.11 Tell me about a goal you set and achieved.
+
+- **Tip**: Demonstrate your ability to get things done.
+- **Answer**: Pick an example where you succeeded in a replicable manner.
+
+## ![✔] 1.12 Describe a time you disagreed with a boss or colleague.
+
+- **Tip**: Maintain professionalism.
+- **Answer**: Share how you communicated your point and reached a positive outcome.
+
+## ![✔] 1.13 What are your weaknesses?
+
+- **Tip**: Avoid clichés and show self-awareness.
+- **Answer**: Mention 1-2 non-critical weaknesses and how you’re addressing them.
+
+## ![✔] 1.14 Any questions for me?
+
+- **Tip**: Always have questions ready, as you'll always get this question.
+- **Answer**: Ask questions that show your interest in contributing to the company's success.
+
+## ![✔] 1.15 Anything else you’d like to add?
+
+- **Tip**: Use this chance to reinforce your key points.
+- **Answer**: Recap the main reasons why you’re the best fit for the job.
+
+## ![✔] 1.16 What is your salary expectation?
 
 - I am sure a company such as ‘x’ pays fair market value for this role. What budget do you have in mind?”
   Check LinkedIn averages.
 - If forced to give a number, give a range and state that you are open to negotiation and incentivisation based on the growth of the company.
 
-> `Kirsty Bonner`
+## ![✔] 1.17 What makes you the best candidate?
+
+**Answer**: Use stories from past roles to show your strengths in action, and connect them to this job; don't discuss other candidates
+
+## ![✔] 1.18 Why are you looking to change jobs?
+
+**Answer**: Mention opportunities you're excited about in this role, at this moment in your career
+
+## ![✔] 1.19 Where do you want to be in 5 years?
+
+**Answer**: With whatever details are genuine, show that you're focused on growth and pushing yourself long term
+
+## ![✔] 1.20 Tell me about a time you received tough feedback - how did you react?
+
+**Answer**: Tell a story that was pivotal to your growth - where you took quick action to turn a weakness into a strength
+
+## ![✔] 1.21 Describe a time you had to go above and beyond to finish a project.
+
+**Answer**: Share a story where you weren't at fault for the crunch, but you still did the work without complaint
+
+## ![✔] 1.22 What's something you've changed your mind on recently? Why did you? 
+
+**Answer**: Pick anything - inside or outside work - that shows you're curious and willing to update your opinions
+
+## ![✔] 1.22 What's a time you had to work with someone whose style was different than yours? How did you?
+
+**Answer**: Pick a story where you and someone else were very different, but you found common ground, worked well together, and delivered
+
+## ![✔] 1.23 Describe a time you got to be creative at work. What was exciting or difficult about it?
+
+**Answer**: Give an example where you thrived with a creative task; bonus if you overcame an initial fear by using a repeatable tactic
+
+## ![✔] 1.24 Tell me about a successful presentation you gave. What made it go well?
+
+**Answer**: Describe a time when you succeeded because you used communication tools like storytelling, simplicity, clarity, and repetition 
+
+## ![✔] 1.25 What's your preferred work environment?
+
+**Answer**: Describe how your preference aligns with the job (example: for a team-oriented role, talk about why you love a collaborative environment)
+
+## ![✔] 1.26 What do you do to handle pressure or stress?
+
+**Answer**: Tell a story about a particularly stressful time at work and what concrete steps you took to manage it
+
+## ![✔] 1.27 What are your salary expectations?
+
+**Answer**: Mention your skills and experience, some industry benchmarks, and then state a range you're okay with
+
+Preparation is key to turn every question into a chance to highlight why you're the ideal candidate.
+
+- [Job Interview - Part 1](https://www.linkedin.com/posts/george-stern_the-secret-to-acing-any-job-interview-activity-7208801874882232320-pBTu)
+- [Job Interview - Part 2](https://www.linkedin.com/posts/george-stern_the-secret-to-acing-any-job-interview-activity-7212063369883734016-3nwb)
+- `Kirsty Bonner`
 
 </details>
 
