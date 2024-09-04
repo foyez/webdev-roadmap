@@ -290,6 +290,7 @@ Data Structures And Algorithms](https://www.interviewcake.com/data-structures-an
 
 - [React Virtual DOM Explained in Simple English](https://programmingwithmosh.com/react/react-virtual-dom-explained/)
 - [mounting, render & rerender](https://reacttraining.com/blog/mount-vs-render/)
+- [useState lazy initialization and function updates](https://kentcdodds.com/blog/use-state-lazy-initialization-and-function-updates)
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - `List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!`
 
 #### Javascript
