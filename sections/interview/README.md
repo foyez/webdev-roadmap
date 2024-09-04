@@ -314,6 +314,8 @@ Data Structures And Algorithms](https://www.interviewcake.com/data-structures-an
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - `Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore`
 - [frontend-challenges](https://github.com/felipefialho/frontend-challenges)
+- [Semantic HTML](https://dev.to/vayolapradeep/unlocking-web-accessibility-with-semantic-html-elements-beyond-design-and-presentation-5ahg)
+- [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
 
 #### Backend
 
