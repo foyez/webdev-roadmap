@@ -773,6 +773,16 @@ synchronization for React`
 - [egghead.io](https://egghead.io/) - `Concise screencast video tutorials`
 - [Awesome Uses](https://github.com/wesbos/awesome-uses) - `A list of /uses pages detailing developer setups, gear, software and configs`
 
+## CS50
+
+- [CS50x 2023 Lectures](https://www.youtube.com/playlist?list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4) - `This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming, for concentrators and non-concentrators alike, with or without prior programming experience.`
+- [CS50's Introduction to Programming with Python](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V) - `This is CS50P, CS50's Introduction to Programming with Python.`
+- [CS50's Introduction to Databases with SQL](https://www.youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0) - `This is CS50’s introduction to databases using a language called SQL.`
+- [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu) - `This is CS50W, CS50's Web Programming with Python and JavaScript.`
+- [CS50's Mobile App Development with React Native 2018](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR) - `This course picks up where Harvard University's CS50 leaves off, transitioning from web development to mobile app development with React Native, a popular open-source framework maintained by Facebook that enables cross-platform native apps using JavaScript without Java or Swift.`
+- [CS50's Introduction to Artificial Intelligence with Python 2023](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm) - `This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation.`
+- [CS50's Introduction to Cybersecurity](https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE) - `An introduction to cybersecurity for technical and non-technical audiences alike.`
+
 </details>
 
 # Resume
