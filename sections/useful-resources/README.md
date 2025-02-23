@@ -487,6 +487,7 @@ Collection of TypeScript type challenges
 - [dmitripavlutin's blog](https://dmitripavlutin.com/tag/react/)
 - [goshakkk's blog](https://goshakkk.name/on-react/)
 - [goshakkk's forms in react](https://goshakkk.name/on-forms-react/)
+- [Advanced patterns for React developers](https://www.developerway.com/)
   
 ### React Video Tutorials
   
