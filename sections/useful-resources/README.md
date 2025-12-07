@@ -360,6 +360,7 @@
 
 - [90 Days of Devops](https://github.com/MichaelCade/90DaysOfDevOps)
 - [Complete Intro to Containers](https://btholt.github.io/complete-intro-to-containers/)
+- [A browser-based learning platform to learn Linux / Docker / Kubernetes / multi-VM sandboxes, where you can practise DevOps and server-side tools hands-on.](https://labs.iximiuz.com)
 
 ### Docker
   
